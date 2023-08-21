@@ -1,4 +1,4 @@
-# Lab 3: Create an RDF graph in Graph Studio
+# Create an RDF graph in Graph Studio
 
 ## Introduction
 Graph Studio in Oracle Autonomous Database enables users to model, create, query, and analyze graph data. It includes notebooks, developer APIs for executing graph queries using PGQL, 60+ built-in graph algorithms, and offers dozens of visualizations including native graph visualization.
@@ -10,22 +10,25 @@ You can now use Graph Studio for the following supported RDF features:
 
 Estimated Time: 5 minutes
 
+Watch the video below for a quick walk-through of the lab.
+[Create an RDF graph in Graph Studio](videohub:1_vvqhh26v)
+
 ### Objectives
 - Create RDF Graph in Graph Studio
 - Validate the RDF Graph
 - Execute SPARQL Queries on the Playground Page
 
 ### Prerequisites
-- The following lab requires an Autonomous Database - Shared Infrastructure account.
+- The following lab requires an Autonomous Database - Serverless.
 - And that the Graph-enabled user (GRAPHUSER) exists. That is, a database user with the correct roles and privileges exists.
 
-## **Task 1:** Create RDF graph in Graph Studio
+## Task 1: Create RDF graph in Graph Studio
 
 Assuming that you have completed the previous labs and are currently logged in, execute the following steps:
 
 1. Click on **Graphs** on the navigation menu from the left to navigate the Graphs page.
 
-  ![The landing page after creating the environment is the jobs menu](./images/graph-studio-job-screen.png "")
+  ![The landing page after creating the environment is the jobs menu](./images/graph-studio-home.png "")
 
 2. In the Graph Type dropdown menu select **RDF** and then click the **Create** button on the top-right corner of the interface.
 
@@ -95,7 +98,7 @@ Assuming that you have completed the previous labs and are currently logged in, 
     Started execution of task Graph Creation - MOVIESTREAM.
     ```
 
-## **Task 2:** Validate the RDF graph
+## Task 2: Validate the RDF graph
 
 You can explore and validate the newly created RDF graph on the **Graphs** page in Graph Studio as shown:
 
@@ -145,4 +148,4 @@ This concludes this lab. **You may now proceed to the next lab.**
 
 - **Author** -  Malia German, Ethan Shmargad, Matthew McDaniel Solution Engineers, Ramu Murakami Gutierrez Product Manager
 - **Technical Contributor** -  Melliyal Annamalai Distinguished Product Manager, Joao Paiva Consulting Member of Technical Staff, Lavanya Jayapalan Principal User Assistance Developer
-- **Last Updated By/Date** - Ramu Murakami Gutierrez, Product Manager, June 2022
+- **Last Updated By/Date** - Ramu Murakami Gutierrez, Product Manager, August 2023

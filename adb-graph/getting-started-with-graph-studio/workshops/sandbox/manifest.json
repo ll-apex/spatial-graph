@@ -1,6 +1,6 @@
 {
     "workshoptitle": "Get Started with Graph Studio",
-    "help": "livelabs-help-db_us@oracle.com",
+    "help": "livelabs-help-sg_us@oracle.com",
     "include": {
       "adb-goto-service-body.md":"https://oracle-livelabs.github.io/common/building-blocks/tasks/adb/goto-service-body.md",
       "adb-provision-body.md":"https://oracle-livelabs.github.io/common/building-blocks/tasks/adb/provision-body.md"
@@ -8,9 +8,9 @@
     "variables": ["../../variables.json"],
 	"tutorials": [
         {
-            "title": "Get Started",
-            "description": "Prerequisites for customers using Free Trial and Paid tenancies, and Always Free accounts. ",
-            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account.md"
+          "title": "Get Started",
+          "description": "Prerequisites for this workshop",
+          "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs.md"
         },
         {
             "title": "Introduction",
