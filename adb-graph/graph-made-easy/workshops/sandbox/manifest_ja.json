@@ -1,0 +1,53 @@
+{
+    "workshoptitle": "グラフを簡単に: データで新しいインサイトを見つける",
+    "help": "livelabs-help-db_us@oracle.com",
+    "tutorials": [
+        {
+          "title": "Graph Studioでのプロパティ・グラフの操作",
+          "description": "導入は常に最初です。概要のタイトルとコンテンツ・メニューのタイトルが一致します。",
+          "filename": "../../introduction-property-graph/introduction-property-graph_ja.md"
+        },
+        {
+          "title": "開始",
+          "description": "LiveLabs (Oracle所有テナンシ)の前提条件。ラボのタイトルとコンテンツ・メニューのタイトル(上のタイトル)は、前提条件ラボと一致します。この研究室はいつも先です。",
+          "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_ja.md"
+        },
+        {
+            "title": "設定",
+            "description": "スタックの実行による設定",
+            "filename": "../../setup/setup_ja.md"
+        },
+        {
+          "title": "演習1: グラフの作成",
+          "filename": "../../create-graph/create-graph_ja.md"
+        },
+        {
+          "title": "演習2: グラフの問合せおよびビジュアル化",
+          "filename": "../../query-graph/graph-query-update_ja.md"
+        },
+        {
+          "title": "Graph StudioでのRDFグラフの操作",
+          "description": "導入は常に最初です。概要のタイトルとコンテンツ・メニューのタイトルが一致します。",
+          "filename": "../../introduction-rdf/introduction-rdf_ja.md"
+        },
+        {
+          "title": "演習1: Graph StudioでのRDFグラフの作成",
+          "filename": "../../rdf-graph-user-and-graph-studio/create-and-validate-an-rdf-graph-user_ja.md"
+        },
+        {
+          "title": "演習2: RDFグラフの問合せおよびビジュアル化",
+          "filename": "../../query-and-visualize/query-and-visualize-the-rdf-graph_ja.md"
+        },
+        {
+            "title": "環境の破棄",
+            "description": "設定で作成された破棄された環境 ",
+            "filename": "../../destroy-environment/destroy-environment_ja.md"
+        },
+        {
+          "title": "サポートが必要ですか。",
+          "description": "ライブヘルプを受信するための一般的な問題と方向への解決策",
+          "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_ja.md"
+        }
+
+    ]
+}
