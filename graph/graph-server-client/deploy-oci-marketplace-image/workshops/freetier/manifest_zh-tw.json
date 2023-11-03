@@ -1,0 +1,61 @@
+{
+    "workshoptitle":"使用 Oracle Database 分析、查詢及視覺化財產圖表",
+    "help": "livelabs-help-sg_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "簡介",
+            "description": "簡介",
+            "filename":"../../intro/intro_zh-TW.md"
+        },
+        {
+            "title": "開始使用",
+            "description": "註冊 Free Tier 帳戶",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_zh-TW.md"
+        },
+        {
+            "title": "實驗室 1：建立 SSH 金鑰",
+            "description":"建立 SSH 金鑰",
+            "filename":"https://oracle-livelabs.github.io/common/labs/generate-ssh-key/generate-ssh-keys_zh-TW.md"
+        },
+        {
+            "title": "實驗室 2：建立 Autonomous Database",
+            "description":"設定永遠免費自治式資料庫執行處理",
+            "filename":"../../provision-free-tier-adb/provision-free-tier-adb_zh-TW.md"
+        },
+        {
+            "title": "實驗室 3：建立圖表伺服器",
+            "description":"部署 Graph Server 與 Client Marketplace 影像",
+            "filename":"../../deploy-image/deploy-image_zh-TW.md"
+        },
+        {
+            "title": "實驗室 4：建立及啟用圖表使用者",
+            "description":"使用資料庫動作建立及啟用圖形使用者",
+            "filename":"../../create-graph-user/create-graph-user_zh-TW.md"
+        },
+        {
+            "title": "實驗室 5：建立及植入表格",
+            "description":"建立並填入 Customer 360 資料集的表格",
+            "filename":"../../create-and-populate-tables/create-and-populate-tables_zh-TW.md"
+        },
+        {
+            "title": "實驗室 6：建立圖表",
+            "description":"建立圖表",
+            "filename":"../../create-graph/create-graph_zh-TW.md"
+        },
+        {
+            "title": "實驗室 7：查詢及分析圖表",
+            "description":"查詢和分析圖表",
+            "filename":"../../query-and-analyze-graphs/query-and-analyze-graphs_zh-TW.md"
+        },
+        {
+            "title": "實驗室 8：將圖表視覺化",
+            "description":"將圖表視覺化",
+            "filename":"../../visualize-graphs/visualize-graphs_zh-TW.md"
+        },
+        {
+            "title": "需要協助嗎？",
+            "description": "接收即時說明常見問題的解決方案和指示",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_zh-TW.md"
+        }
+    ]
+}
