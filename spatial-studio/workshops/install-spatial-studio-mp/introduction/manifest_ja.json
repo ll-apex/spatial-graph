@@ -1,0 +1,53 @@
+{
+    "workshoptitle": "Oracle Spatial Studioの概要",
+    "help": "livelabs-help-db_us@oracle.com",
+    "tutorials": [
+      {
+        "title": "スタート・ガイド",
+        "description": "Oracle Cloudへのログイン",
+        "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_ja.md"
+      },
+      {
+        "title": "概要",
+        "filename": "../introduction/introduction_ja.md"
+      },
+      {
+        "title": "演習1: Autonomous Database",
+        "filename": "https://oracle-livelabs.github.io/adb/shared/adb-provision/adb-provision_ja.md"
+      },
+      {
+        "title": "演習2: SQL Developer Web",
+        "description": "SQL Developer Web",
+        "filename": "https://oracle-livelabs.github.io/adb/shared/adb-sqldevweb/adb-sqldevweb_ja.md"
+      },
+      {
+        "title": "演習3: Spatial Studio Repoスキーマ",
+        "filename": "../../../../spatial-studio/env/repo-schema/repo-schema_ja.md"
+      },    
+      {
+        "title": "演習4: Spatial Studioのプロビジョニング",
+        "filename": "../../../../spatial-studio/env/env-marketplace/env-marketplace_ja.md"
+      },
+      {
+        "title": "演習5: データのロード",
+        "filename": "../../../../spatial-studio/intro/load-data/load-data_ja.md"
+      },
+      {
+        "title": "演習6: プロジェクトの作成",
+        "filename": "../../../../spatial-studio/intro/create-project/create-project_ja.md"
+      },
+      {
+        "title": "演習7: ポイント・スタイリングの確認",
+        "filename": "../../../../spatial-studio/intro/apply-styling/apply-styling_ja.md"
+      },
+      {
+        "title": "演習8: レイヤー相互作用の確認",
+        "filename": "../../../../spatial-studio/intro/apply-interactions/apply-interactions_ja.md"
+      },
+      {
+        "title": "サポートが必要ですか。",
+        "description": "ライブヘルプを受信するための一般的な問題と方向への解決策",
+        "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_ja.md"
+      }
+    ]
+}
