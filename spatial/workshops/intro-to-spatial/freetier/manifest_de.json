@@ -1,0 +1,57 @@
+{
+  "workshoptitle": "So arbeiten Sie mit räumlichen Daten in Oracle Autonomous Database (ADB)",
+  "help": "livelabs-help-db_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Einführung in Oracle Spatial",
+      "type":"adb",
+      "description":"Erste Schritte mit der Verwaltung und Analyse räumlicher Daten in Oracle Autonomous Database",
+      "filename": "../introduction/introduction_de.md"
+    },
+    {
+      "title": "Erste Schritte",
+      "description": "Bei Oracle Cloud anmelden",
+      "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_de.md"
+    },
+    {
+      "title": "Übung 1: Autonomous Database bereitstellen",
+      "description": "Neue Autonomous Data Warehouse-(ADW-)Instanz bereitstellen",
+      "filename": "https://raw.githubusercontent.com/oracle-livelabs/adb/main/shared/adb-provision/adb-provision_de.md"
+    },
+    {
+      "title": "Übung 2: Verbindung zu ADB mit SQL Worksheet herstellen",
+      "description": " SQL Arbeitsblatt",
+      "filename": "https://raw.githubusercontent.com/oracle-livelabs/adb/main/shared/adb-sqldevweb/adb-sqldevweb_de.md"
+    },
+    {
+      "title": "Übung 3: Geodaten vorbereiten",
+      "description": "Spatial Data erstellen und konfigurieren",
+      "filename": "../../../create-spatial-data-adb/create-spatial-data-adb_de.md"
+    },
+    {
+      "title": "Übung 4: Spatial Querys ausführen",
+      "description":"Spatial-Analysen ausführen",
+      "filename": "../../../run-spatial-queries-adb/run-spatial-queries-adb_de.md"
+    },
+    {
+      "title": "Übung 5 (optional):  Geben Sie GeoJSON zurück",
+      "description":"GeoJSON zurückgeben",
+      "filename": "../../../return-geojson/return-geojson_de.md"
+    },
+    {
+      "title": "Übung 6 (optional): Bereinigung - ADB auf Zustand vor dem Workshop zurücksetzen",
+      "description":"Reinigen",
+      "filename": "../../../cleanup/cleanup_de.md"
+    },
+    {
+      "title": "Übung 7 (optional): Bereinigen - ADB-Instanz beenden",
+      "description":"Reinigen",
+      "filename": "https://raw.githubusercontent.com/oracle-livelabs/common/main/labs/terminate-adb/terminate-adb_de.md"
+    },
+      {
+        "title": "Brauchen Sie Hilfe?",
+        "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+        "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_de.md"
+      }
+  ]
+}
