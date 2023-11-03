@@ -1,0 +1,40 @@
+{
+    "workshoptitle": "開始使用 Graph Studio",
+    "help": "livelabs-help-db_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "簡介",
+            "description": "研習簡介和產品概要。",
+            "filename": "../../introduction/introduction_zh-TW.md"
+        },
+        {
+            "title": "開始使用",
+            "description": "使用免費試用和付費租用以及永遠免費帳戶的客戶先決條件。 ",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_zh-TW.md"
+        },
+        {
+            "title": "實驗室 1：建立圖表使用者",
+            "description": "建立簡單的圖表，學習如何瀏覽使用者介面。",
+            "filename": "../../create-user/create-user_zh-TW.md"
+        },
+        {
+            "title": "實驗室 2：Hello World",
+            "description": "建立簡單的圖表，學習如何瀏覽使用者介面。",
+            "filename": "../../hello-world/hello-world_zh-TW.md"
+        },
+        {
+            "title": "實驗室 3：從 SH 表格建立圖表",
+            "filename": "../../create-graph-from-sh-tables/create-graph-from-sh-tables_zh-TW.md"
+        },
+        {
+            "title": "實驗室 4：使用圖表演算法分析資料倉儲",
+            "filename": "../../run-graph-algorithms-on-data-warehouse/run-graph-algorithms-on-data-warehouse_zh-TW.md"
+        },
+        {
+            "title": "需要協助嗎？",
+            "description": "接收即時說明常見問題的解決方案和指示",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_zh-TW.md"
+        }
+
+    ]
+}
