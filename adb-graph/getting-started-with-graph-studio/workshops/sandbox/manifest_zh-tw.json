@@ -1,0 +1,50 @@
+{
+    "workshoptitle": "開始使用 Graph Studio",
+    "help": "livelabs-help-sg_us@oracle.com",
+    "include": {
+      "adb-goto-service-body_zh-TW.md":"https://oracle-livelabs.github.io/common/building-blocks/tasks/adb/goto-service-body_zh-TW.md",
+      "adb-provision-body_zh-TW.md":"https://oracle-livelabs.github.io/common/building-blocks/tasks/adb/provision-body_zh-TW.md"
+    },
+    "variables": ["../../variables.json"],
+	"tutorials": [
+        {
+          "title": "開始使用",
+          "description": "此研習的先修課程",
+          "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs_zh-TW.md"
+        },
+        {
+            "title": "簡介",
+            "description": "研習簡介和產品概要。",
+            "filename": "../../introduction/introduction_zh-TW.md"
+        },
+        {
+            "title": "實驗室 1：佈建 ADB 執行處理",
+            "description": "佈建 Autonomous Database 執行處理",
+            "type": "freetier",
+            "filename": "https://oracle-livelabs.github.io/common/building-blocks/blocks/adb/provision/provision-console_zh-TW.md"
+        },
+        {
+            "title": "實驗室 2：建立圖表使用者",
+            "description": "建立簡單的圖表，學習如何瀏覽使用者介面。",
+            "filename": "../../create-user/create-user_zh-TW.md"
+        },
+        {
+            "title": "實驗室 3：Hello World",
+            "description": "建立簡單的圖表，學習如何瀏覽使用者介面。",
+            "filename": "../../hello-world/hello-world_zh-TW.md"
+        },
+        {
+            "title": "實驗室 4：從 SH 表格建立圖表",
+            "filename": "../../create-graph-from-sh-tables/create-graph-from-sh-tables_zh-TW.md"
+        },
+        {
+            "title": "實驗室 5：使用圖表演算法分析資料倉儲",
+            "filename": "../../run-graph-algorithms-on-data-warehouse/run-graph-algorithms-on-data-warehouse_zh-TW.md"
+        },
+        {
+            "title": "需要協助嗎？",
+            "description": "接收即時說明常見問題的解決方案和指示",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_zh-TW.md"
+        }
+    ]
+}
