@@ -1,0 +1,42 @@
+{
+    "workshoptitle": "グラフ分析とビジュアライゼーションを使用して、不正送金の可能性を検出",
+    "include": {
+    "iam-compartment-create-body_ja.md":"/common/building-blocks/tasks/iam/compartment-create-body_ja.md"
+    },
+    "variables": ["/common/building-blocks/variables/variables.json"],
+    "help": "livelabs-help-db_us@oracle.com",
+	"tutorials": [
+    {
+        "title": "概要",
+        "description": "このワークショップの概要。",
+        "filename": "https://oracle-livelabs.github.io/spatial-graph/adb-graph/work-with-csv-files/introduction/introduction_ja.md"
+    },
+    {
+        "title": "開始",
+        "description": "このワークショップの前提条件",
+        "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_ja.md"
+    },
+    {
+        "title": "演習1: 設定",
+        "description": "Stackを実行して設定します。",
+        "filename": "https://oracle-livelabs.github.io/spatial-graph/adb-graph/work-with-csv-files/setup/setup_ja.md"
+    },
+    {
+        "title": "演習2: グラフの作成",
+        "filename": "https://oracle-livelabs.github.io/spatial-graph/adb-graph/work-with-csv-files/create-graph/create-graph-me_ja.md"
+    },
+    {
+        "title": "演習3: グラフの問合せおよびビジュアル化",
+        "filename": "https://oracle-livelabs.github.io/spatial-graph/adb-graph/work-with-csv-files/query-graph-update/graph-query-update_ja.md"
+    },
+    {
+        "title": "演習4: クリーンアップ: Graph StudioおよびADBの終了",
+        "filename": "https://oracle-livelabs.github.io/spatial-graph/adb-graph/work-with-csv-files/destroy-environment/destroy-environment_ja.md"
+    },
+    {
+        "title": "サポートが必要ですか。",
+        "description": "ライブヘルプを受信するための一般的な問題と方向への解決策",
+        "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ja.md"
+    }
+      ]
+  }
