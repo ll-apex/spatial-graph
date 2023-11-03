@@ -1,0 +1,51 @@
+{
+    "workshoptitle": "Diagramme leicht gemacht: Neue Einblicke in Ihre Daten finden",
+    "help": "livelabs-help-db_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Mit Eigenschaftsdiagrammen in Graph Studio arbeiten",
+            "description": "Die Einführung steht immer an erster Stelle. Titel und Inhalt des Menüs stimmen für die Einführung überein.",
+            "filename": "../../introduction-property-graph/introduction-property-graph_de.md"
+        },
+        {
+            "title": "Erste Schritte",
+            "description": "Voraussetzungen für LiveLabs (Mandanten im Besitz von Oracle). Der Titel der Übung und der Titel des Inhaltsmenüs (obener Titel) stimmen mit dem Titel der erforderlichen Übung überein. Diese Übung ist immer die erste.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/register-free-tier-account_de.md"
+        },
+        {
+            "title": "Compartment erstellen (optional, wenn Sie bereits eines haben)",
+            "description": "Hilft Benutzern, ein Compartment in OCI zu erstellen",
+            "filename": "../../sprint-create-compartment/sprint-create-compartment_de.md"
+        },
+        {
+            "title": "Einrichtung",
+            "description": "Durch Ausführung von Stack einrichten",
+            "filename": "../../setup/setup_de.md"
+        },
+        {
+            "title": "Übung 1: Diagramm erstellen",
+            "filename": "../../create-graph/create-graph_de.md"
+        },
+        {
+            "title": "Übung 2: Diagramm abfragen und visualisieren",
+            "filename": "../../graph-query-update/graph-query-update_de.md"
+        },
+        {
+            "title": "Übung 3: Erstellen eines RDF-Diagramms in Graph Studio (OPTIONAL - Teil 1)",
+            "filename": "../../rdf-graph-user-and-graph-studio/create-and-validate-an-rdf-graph-user_de.md"
+        },
+        {
+            "title": "Übung 4: RDF-Diagramm abfragen und visualisieren - OPTIONAL - Teil 2",
+            "filename": "../../query-and-visualize/query-and-visualize-the-rdf-graph_de.md"
+        },
+        {
+            "title": "Löschen",
+            "description": "Im Setup erstellte zerstörte Umgebung ",
+            "filename": "../../destroy-environment/destroy-environment_de.md"
+        },
+        {
+        "title": "Oracle CloudWorld 2022 - Hilfe anfordern",
+        "filename": "https://oracle-livelabs.github.io/common/support/ocwsupportlab/ocwsupportlab_de.md"
+        }
+    ]
+}
