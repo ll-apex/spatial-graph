@@ -1,0 +1,61 @@
+{
+    "workshoptitle":"Eigenschaftsdiagramme mit Oracle Database analysieren, abfragen und visualisieren",
+    "help": "livelabs-help-sg_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "Einführung",
+            "description": "Einführung",
+            "filename":"../../intro/intro_de.md"
+        },
+        {
+            "title": "Erste Schritte",
+            "description": "Für einen Free Tier-Account registrieren",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_de.md"
+        },
+        {
+            "title": "Übung 1: SSH-Schlüssel erstellen",
+            "description":"SSH-Schlüssel erstellen",
+            "filename":"https://oracle-livelabs.github.io/common/labs/generate-ssh-key/generate-ssh-keys_de.md"
+        },
+        {
+            "title": "Übung 2: Autonomous Database erstellen",
+            "description":"Autonome Datenbankinstanz vom Typ \"Always Free\" einrichten",
+            "filename":"../../provision-free-tier-adb/provision-free-tier-adb_de.md"
+        },
+        {
+            "title": "Übung 3: Graph Server erstellen",
+            "description":"Graph Server- und Client Marketplace-Image bereitstellen",
+            "filename":"../../deploy-image/deploy-image_de.md"
+        },
+        {
+            "title": "Übung 4: Diagrammbenutzer erstellen und aktivieren",
+            "description":"Graphbenutzer mit Database Actions erstellen und aktivieren",
+            "filename":"../../create-graph-user/create-graph-user_de.md"
+        },
+        {
+            "title": "Übung 5: Tabellen erstellen und auffüllen",
+            "description":"Tabellen mit dem Customer 360-Dataset erstellen und auffüllen",
+            "filename":"../../create-and-populate-tables/create-and-populate-tables_de.md"
+        },
+        {
+            "title": "Übung 6: Diagramm erstellen",
+            "description":"Diagramm erstellen",
+            "filename":"../../create-graph/create-graph_de.md"
+        },
+        {
+            "title": "Übung 7: Diagramm abfragen und analysieren",
+            "description":"Diagramm abfragen und analysieren",
+            "filename":"../../query-and-analyze-graphs/query-and-analyze-graphs_de.md"
+        },
+        {
+            "title": "Übung 8: Diagramm visualisieren",
+            "description":"Diagramm visualisieren",
+            "filename":"../../visualize-graphs/visualize-graphs_de.md"
+        },
+        {
+            "title": "Brauchen Sie Hilfe?",
+            "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_de.md"
+        }
+    ]
+}
