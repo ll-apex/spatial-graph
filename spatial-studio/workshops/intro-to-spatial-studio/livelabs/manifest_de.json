@@ -1,0 +1,45 @@
+{
+    "workshoptitle": "Einführung in Oracle Spatial Studio",
+      "include": {"starter-file.sql":"../../data-load/files/starter-file.sql",
+      "sample.json":"../../data-load/files/sample.json",
+      "step2_de.md":"../../data-load/files/step2_de.md"},
+      "support": "https://community.oracle.com/tech/developers/categories/autonomous-database-shared",
+      "help": "livelabs-help-db_us@oracle.com",
+    "tutorials": [
+      {
+        "title": "Einführung",
+        "filename": "../introduction/introduction_de.md",
+        "type": "reservation"
+      },  
+      {
+        "title": "Erste Schritte",
+        "description": "Bei Oracle Cloud anmelden",
+        "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs2_de.md"
+    }, 
+   {
+      "title": "Übung 1: Auf räumliches Studio zugreifen",
+      "filename": "../../../env-res/env-res_de.md"
+  },
+  {
+      "title": "Übung 2: Räumliche Daten laden",
+      "filename": "../../../load-spatial-data/load-spatial-data_de.md"
+  },
+  {
+    "title": "Übung 3: Projekt erstellen",
+    "filename": "../../../create-project/create-project_de.md"
+},
+{
+  "title": "Übung 4: Zuordnung konfigurieren",
+  "filename": "../../../apply-map-styling/apply-map-styling_de.md"
+},
+{
+  "title": "Übung 5: Räumliche Analysen durchführen",
+  "filename": "../../../spatial-analysis-intro/spatial-analysis-intro_de.md"
+},
+{
+    "title": "Brauchen Sie Hilfe?",
+    "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+    "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_de.md"
+}
+    ]
+}
