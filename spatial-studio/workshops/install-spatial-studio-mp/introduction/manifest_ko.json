@@ -1,0 +1,53 @@
+{
+    "workshoptitle": "Oracle Spatial Studio 소개",
+    "help": "livelabs-help-db_us@oracle.com",
+    "tutorials": [
+      {
+        "title": "시작하기",
+        "description": "Oracle Cloud에 로그인",
+        "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_ko.md"
+      },
+      {
+        "title": "소개",
+        "filename": "../introduction/introduction_ko.md"
+      },
+      {
+        "title": "실습 1: Autonomous Database",
+        "filename": "https://oracle-livelabs.github.io/adb/shared/adb-provision/adb-provision_ko.md"
+      },
+      {
+        "title": "실습 2: SQL Developer Web",
+        "description": "SQL Developer Web",
+        "filename": "https://oracle-livelabs.github.io/adb/shared/adb-sqldevweb/adb-sqldevweb_ko.md"
+      },
+      {
+        "title": "실습 3: Spatial Studio 저장소 스키마",
+        "filename": "../../../../spatial-studio/env/repo-schema/repo-schema_ko.md"
+      },    
+      {
+        "title": "실습 4: Spatial Studio 프로비전",
+        "filename": "../../../../spatial-studio/env/env-marketplace/env-marketplace_ko.md"
+      },
+      {
+        "title": "실습 5: 데이터 로드",
+        "filename": "../../../../spatial-studio/intro/load-data/load-data_ko.md"
+      },
+      {
+        "title": "실습 6: 프로젝트 생성",
+        "filename": "../../../../spatial-studio/intro/create-project/create-project_ko.md"
+      },
+      {
+        "title": "실습 7: 점 스타일 지정 탐색",
+        "filename": "../../../../spatial-studio/intro/apply-styling/apply-styling_ko.md"
+      },
+      {
+        "title": "실습 8: 계층 상호 작용 탐색",
+        "filename": "../../../../spatial-studio/intro/apply-interactions/apply-interactions_ko.md"
+      },
+      {
+        "title": "도움이 필요합니까?",
+        "description": "일반적인 문제 해결 및 실시간 도움말 수신 방향",
+        "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_ko.md"
+      }
+    ]
+}
