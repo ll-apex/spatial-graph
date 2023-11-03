@@ -1,0 +1,35 @@
+{
+    "workshoptitle": "Usar Análise de Gráficos para Recomendar Filmes",
+    "help": "livelabs-help-sg_us@oracle.com",
+    "include": {
+        "adb-goto-graph-studio_pt-BR.md":"/common/building-blocks/tasks/adb/goto-graph-studio_pt-BR.md",
+        "adb-create-graph_pt-BR.md":"/common/building-blocks/tasks/adb/create-graph_pt-BR.md"     
+      },
+    "variables": ["./variables.json"],
+    "tutorials": [
+        {
+            "title": "Usar Análise de Gráficos para Recomendar Filmes",
+            "description": "A introdução é sempre a primeira. O título e o título do menu de conteúdo correspondem à Introdução.",
+            "filename": "../../introduction/introduction_pt-BR.md"
+        },
+        {
+            "title": "Introdução",
+            "description": "Pré-requisitos para LiveLabs (tenancies de propriedade da Oracle). O título do laboratório e o título do Menu de conteúdo (o título acima) correspondem ao laboratório de Pré-requisitos. Este laboratório é sempre o primeiro.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 1: Criar um gráfico",
+            "filename": "../../create-graph/create-graph_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 2: Consultar e visualizar o gráfico",
+            "filename": "../../query-and-visualize/query-and-visualize_pt-BR.md"
+        },
+        {
+            "title": "Precisa de Ajuda?",
+            "description": "Soluções para Problemas Comuns e Instruções para Receber Ajuda ao Vivo",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_pt-BR.md"
+        }
+
+    ]
+}
