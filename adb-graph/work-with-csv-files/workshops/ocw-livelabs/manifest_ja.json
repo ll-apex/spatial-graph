@@ -1,0 +1,42 @@
+{
+    "workshoptitle": "グラフを簡単に: データで新しいインサイトを見つける",
+    "help": "livelabs-help-db_us@oracle.com",
+    "include": {
+        "iam-compartment-create-body_ja.md":"https://oracle-livelabs.github.io/common/building-blocks/tasks/iam/compartment-create-body_ja.md"
+       },
+    "variables": ["/common/building-blocks/variables/variables.json"],
+    "tutorials": [
+        {
+            "title": "Graph Studioの操作",
+            "description": "導入は常に最初です。概要のタイトルとコンテンツ・メニューのタイトルが一致します。",
+            "filename": "https://oracle-livelabs.github.io/spatial-graph/adb-graph/graph-made-easy/introduction-property-graph/introduction-property-graph_ja.md"
+        },
+        {
+            "title": "開始",
+            "description": "LiveLabs (Oracle所有テナンシ)の前提条件。ラボのタイトルとコンテンツ・メニューのタイトル(上のタイトル)は、前提条件ラボと一致します。この研究室はいつも先です。",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_ja.md"
+        },
+        {
+            "title": "演習1: グラフの作成",
+            "filename": "../../create-graph/create-graph_ja.md"
+        },
+        {
+            "title": "演習2: グラフの問合せおよびビジュアル化",
+            "filename": "../../query-graph/query-graph_ja.md"
+        },
+        {
+            "title": "演習3: Graph StudioでのRDFグラフの作成(オプション- パート1)",
+            "filename": "https://oracle-livelabs.github.io/spatial-graph/adb-graph/graph-made-easy/rdf-graph-user-and-graph-studio/create-and-validate-an-rdf-graph-user_ja.md"
+        },
+        {
+            "title": "演習4: RDFグラフの問合せおよびビジュアル化(オプション- パート2)",
+            "filename": "https://oracle-livelabs.github.io/spatial-graph/adb-graph/graph-made-easy/query-and-visualize/query-and-visualize-the-rdf-graph_ja.md"
+        },
+        {
+            "title": "サポートが必要ですか。",
+            "description": "ライブヘルプを受信するための一般的な問題と方向への解決策",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_ja.md"
+        }
+
+    ]
+}
