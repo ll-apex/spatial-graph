@@ -1,0 +1,60 @@
+{
+    "workshoptitle": "Oracle Autonomous Database(ADB)での空間データの操作方法",
+    "help": "livelabs-help-db_us@oracle.com",
+	  "tutorials": [
+      {
+        "title": "Oracle Spatialの概要",
+        "type":"adb",
+        "description":"Oracle Autonomous Databaseでの空間データの管理と分析の開始",
+        "filename": "../introduction/introduction_ja.md"
+      },
+      {
+        "title": "開始",
+        "description": "Oracle Cloudへのログイン",
+        "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_ja.md"
+      },
+      {
+        "title": "演習1: Autonomous Databaseのプロビジョニング",
+        "description": "新しいAutonomous Data Warehouse (ADW)インスタンスのプロビジョニング",
+        "filename": "https://raw.githubusercontent.com/oracle-livelabs/adb/main/shared/adb-provision/adb-provision_ja.md"
+      },
+      {
+        "title": "演習2: SQLワークシートを使用したADBへの接続",
+        "description": " SQLワークシート",
+        "filename": "https://raw.githubusercontent.com/oracle-livelabs/adb/main/shared/adb-sqldevweb/adb-sqldevweb_ja.md"
+      },
+      {
+        "title": "演習3: 空間データの準備",
+        "description": "空間データの作成および構成",
+        "filename": "../../../create-spatial-data-adb/create-spatial-data-adb_ja.md"
+      },
+      {
+        "title": "演習4: 空間問合せの実行",
+        "description":"空間分析の実行",
+        "filename": "../../../run-spatial-queries-adb/run-spatial-queries-adb_ja.md"
+      },
+      {
+        "title": "演習5: GeoJSONを返す",
+        "description":"GeoJSONを返します",
+        "filename": "../../../return-geojson/return-geojson_ja.md"
+      },
+      {
+        "title": "演習6: クリーン・アップ・オプション1: ADBをワークショップ前の状態にリセット",
+        "description":"クリーンアップ",
+        "filename": "../../../cleanup/cleanup_ja.md"
+      },
+      {
+        "title": "演習7: クリーンアップ・オプション2: ADBインスタンスの終了",
+        "description":"クリーンアップ",
+        "filename": "https://raw.githubusercontent.com/oracle-livelabs/common/main/labs/terminate-adb/terminate-adb_ja.md"
+      },
+      {
+        "title": "詳細は、Oracle CloudWorld 2022を参照してください",
+        "filename": "../../../ocw2022-learn-more/ocw2022-learn-more_ja.md"
+        },
+        {
+          "title": "Oracle CloudWorld 2022 - ヘルプの入手",
+          "filename": "https://oracle-livelabs.github.io/common/support/ocwsupportlab/ocwsupportlab_ja.md"
+          }
+    ]
+}
