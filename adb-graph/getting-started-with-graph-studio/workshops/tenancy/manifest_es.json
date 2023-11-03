@@ -1,0 +1,50 @@
+{
+    "workshoptitle": "Introducción a Graph Studio",
+    "help": "livelabs-help-sg_us@oracle.com",
+    "include": {
+      "adb-goto-service-body_es.md":"https://oracle-livelabs.github.io/common/building-blocks/tasks/adb/goto-service-body_es.md",
+      "adb-provision-body_es.md":"https://oracle-livelabs.github.io/common/building-blocks/tasks/adb/provision-body_es.md"
+    },
+    "variables": ["../../variables.json"],
+	"tutorials": [
+        {
+            "title": "Introducción",
+            "description": "Requisitos para clientes que utilizan arrendamientos de prueba gratuita y de pago, y cuentas Siempre gratis. ",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_es.md"
+        },
+        {
+            "title": "Introducción",
+            "description": "Introducción al taller y descripción general del producto.",
+            "filename": "../../introduction/introduction_es.md"
+        },
+        {
+            "title": "Laboratorio 1: Aprovisionamiento de una instancia de ADB",
+            "description": "Asignación de una instancia de Autonomous Database",
+            "type": "freetier",
+            "filename": "https://oracle-livelabs.github.io/common/building-blocks/blocks/adb/provision/provision-console_es.md"
+        },
+        {
+            "title": "Laboratorio 2: Creación de un usuario de gráfico",
+            "description": "Cree un gráfico simple y aprenda a navegar por la interfaz de usuario.",
+            "filename": "../../create-user/create-user_es.md"
+        },
+        {
+            "title": "Lab 3: Hola mundo",
+            "description": "Cree un gráfico simple y aprenda a navegar por la interfaz de usuario.",
+            "filename": "../../hello-world/hello-world_es.md"
+        },
+        {
+            "title": "Laboratorio 4: Creación de un gráfico a partir de las tablas SH",
+            "filename": "../../create-graph-from-sh-tables/create-graph-from-sh-tables_es.md"
+        },
+        {
+            "title": "Laboratorio 5: Análisis de un almacén de datos con algoritmos de gráficos",
+            "filename": "../../run-graph-algorithms-on-data-warehouse/run-graph-algorithms-on-data-warehouse_es.md"
+        },
+        {
+            "title": "¿Necesita Ayuda?",
+            "description": "Soluciones a problemas comunes e instrucciones para recibir ayuda en directo",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_es.md"
+        }
+    ]
+}
