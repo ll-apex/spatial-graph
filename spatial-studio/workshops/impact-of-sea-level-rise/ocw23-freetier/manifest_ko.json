@@ -1,0 +1,52 @@
+{
+    "workshoptitle": "Oracle Spatial Studio를 통한 해수면 상승의 로컬 영향 평가",
+      "support": "https://community.oracle.com/tech/developers/categories/autonomous-database-shared",
+      "help": "livelabs-help-sg_us@oracle.com",
+    "tutorials": [
+      {
+        "title": "소개",
+        "filename": "../introduction/introduction_ko.md"
+      },  
+      {
+        "title": "시작하기",
+        "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_ko.md"
+      },
+   {
+      "title": "실습 1: Oracle Cloud에 Spatial Studio 배포",
+      "filename": "../../../env-mp-ocw/env-mp-ocw_ko.md"
+  },
+  {
+      "title": "실습 2: 데이터 로드 및 준비",
+      "filename": "../../../slr-load-data/slr-load-data_ko.md"
+  },
+  {
+    "title": "실습 3: 공간 데이터 시각화",
+    "filename": "../../../slr-visualize/slr-visualize_ko.md"
+},
+{
+  "title": "실습 4: 공간 관계 분석",
+  "filename": "../../../slr-analyze/slr-analyze_ko.md"
+},
+{
+  "title": "실습 5: 결과 저장 및 공유",
+  "filename": "../../../slr-save-share/slr-save-share_ko.md"
+},
+{
+  "title": "실습 6: 정리 옵션 1: Spatial Studio 및 ADB를 사전 워크샵 상태로 재설정",
+  "filename": "../../../reset/reset_ko.md"
+},   
+{
+  "title": "실습 7: 정리 옵션 2: Spatial Studio 및 ADB 종료",
+  "filename": "../../../env-mp-teardown/env-mp-teardown_ko.md"
+},
+{
+    "title": "도움이 필요합니까?",
+    "description": "일반적인 문제 해결 및 실시간 도움말 수신 방향",
+    "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ko.md"
+},
+{
+  "title": "Oracle CloudWorld 2023 - 지원",
+   "filename": "https://oracle-livelabs.github.io/common/support/ocwsupportlab/ocwsupportlab_ko.md"
+}
+   ]
+}
