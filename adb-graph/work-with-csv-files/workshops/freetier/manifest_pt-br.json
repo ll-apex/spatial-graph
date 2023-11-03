@@ -1,0 +1,42 @@
+{
+    "workshoptitle": "Graph Studio: Localizar Cadeias de Pagamento Circular com Consultas de Gráficos no Autonomous Database",
+    "include": {
+        "iam-compartment-create-body_pt-BR.md":"https://oracle-livelabs.github.io/common/building-blocks/tasks/iam/compartment-create-body_pt-BR.md"
+       },
+    "variables": ["/common/building-blocks/variables/variables.json"],
+    "help": "livelabs-help-sg_us@oracle.com",
+	"tutorials": [
+    {
+        "title": "Introdução",
+        "description": "Visão geral deste workshop.",
+        "filename": "../../introduction/introduction_pt-BR.md"
+    },
+    {
+        "title": "Introdução",
+        "description": "Pré-requisitos para este workshop",
+        "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_pt-BR.md"
+    },
+    {
+        "title": "Laboratório 1: Configuração",
+        "description": "freetier",
+        "filename": "../../setup/setup_pt-BR.md"
+    },
+    {
+        "title": "Laboratório 2: Criar um gráfico",
+        "filename": "../../create-graph/create-graph-me_pt-BR.md"
+    },
+    {
+        "title": "Laboratório 3: Consultar e visualizar o gráfico",
+        "filename": "../../query-graph/query-graph_pt-BR.md"
+    },
+    {
+        "title": "Laboratório 4: Limpeza: Encerrar Graph Studio e ADB",
+        "filename": "../../destroy-environment/destroy-environment_pt-BR.md"
+    },
+    {
+        "title": "Precisa de Ajuda?",
+        "description": "Soluções para Problemas Comuns e Instruções para Receber Ajuda ao Vivo",
+        "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_pt-BR.md"
+    }
+      ]
+  }
