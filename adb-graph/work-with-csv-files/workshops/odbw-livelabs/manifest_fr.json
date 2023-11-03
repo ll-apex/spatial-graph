@@ -1,0 +1,46 @@
+{
+    "workshoptitle": "Introduction à l'analyse de graphes sur Oracle Autonomous Database",
+      "help": "livelabs-help-db_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "Présentation",
+            "description": "À propos de cet atelier",
+            "type": "odbw",
+            "filename": "../../introduction/introduction_fr.md"
+        },
+        {
+            "title": "Introduction",
+            "description": "Prérequis pour cet atelier.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs2_fr.md"
+        },
+        {
+            "title": "Exercice 1 : Provisionner une instance ADB",
+            "description": "Provisionnement d'une instance Autonomous Database",
+            "type": "livelabs",
+            "filename": "https://oracle-livelabs.github.io/adb/shared/adb-provision/adb-provision-conditional_fr.md"
+        },
+        {
+            "title": "Exercice 2 : Créer un utilisateur de base de données compatible avec les graphiques",
+            "description": "Créer un utilisateur de base de données doté des rôles et privilèges requis",
+            "filename": "../../../create-user/create-user_fr.md"
+        },
+        {
+            "title": "Exercice 3 : Charger des fichiers CSV dans Autonomous Database",
+            "description": "Charger des données à partir de fichiers CSV à l'aide du chargement de données Database Actions",
+            "filename": "../../load-csv-files/load-csv-files_fr.md"
+        },
+        {
+            "title": "Exercice 4 : Créer un graphique",
+            "filename": "../../create-graph/create-graph_fr.md"
+        },
+        {
+            "title": "Exercice 5 : Interroger et visualiser le graphique",
+            "filename": "../../query-graph/query-graph_fr.md"
+        },
+        {
+            "title": "Besoin d'aide ?",
+            "description": "Solutions aux problèmes courants et instructions pour recevoir de l'aide en direct",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_fr.md"
+        }
+    ]
+}
