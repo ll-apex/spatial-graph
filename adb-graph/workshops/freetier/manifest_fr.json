@@ -1,0 +1,40 @@
+{
+    "workshoptitle": "Introduction à Graph Studio",
+    "help": "livelabs-help-db_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "Présentation",
+            "description": "Présentation de l'atelier et présentation du produit.",
+            "filename": "../../introduction/introduction_fr.md"
+        },
+        {
+            "title": "Introduction",
+            "description": "Prérequis pour les clients utilisant des locations d'évaluation gratuite et payantes, et des comptes Toujours gratuit. ",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_fr.md"
+        },
+        {
+            "title": "Exercice 1 : Créer un utilisateur de graphique",
+            "description": "Créer un graphique simple et apprendre à naviguer dans l'interface utilisateur.",
+            "filename": "../../create-user/create-user_fr.md"
+        },
+        {
+            "title": "Atelier 2 : Hello World",
+            "description": "Créer un graphique simple et apprendre à naviguer dans l'interface utilisateur.",
+            "filename": "../../hello-world/hello-world_fr.md"
+        },
+        {
+            "title": "Exercice 3 : Créer un graphique à partir des tables SH",
+            "filename": "../../create-graph-from-sh-tables/create-graph-from-sh-tables_fr.md"
+        },
+        {
+            "title": "Exercice 4 : Analyser un entrepôt de données à l'aide d'algorithmes graphiques",
+            "filename": "../../run-graph-algorithms-on-data-warehouse/run-graph-algorithms-on-data-warehouse_fr.md"
+        },
+        {
+            "title": "Besoin d'aide ?",
+            "description": "Solutions aux problèmes courants et instructions pour recevoir de l'aide en direct",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_fr.md"
+        }
+
+    ]
+}
