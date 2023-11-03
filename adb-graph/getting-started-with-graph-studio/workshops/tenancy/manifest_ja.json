@@ -1,0 +1,50 @@
+{
+    "workshoptitle": "Graph Studioを使い始める",
+    "help": "livelabs-help-sg_us@oracle.com",
+    "include": {
+      "adb-goto-service-body_ja.md":"https://oracle-livelabs.github.io/common/building-blocks/tasks/adb/goto-service-body_ja.md",
+      "adb-provision-body_ja.md":"https://oracle-livelabs.github.io/common/building-blocks/tasks/adb/provision-body_ja.md"
+    },
+    "variables": ["../../variables.json"],
+	"tutorials": [
+        {
+            "title": "開始",
+            "description": "無料トライアルおよび有料テナンシおよびAlways Freeアカウントを使用する顧客の前提条件。 ",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_ja.md"
+        },
+        {
+            "title": "概要",
+            "description": "ワークショップの紹介と製品の概要。",
+            "filename": "../../introduction/introduction_ja.md"
+        },
+        {
+            "title": "演習1: ADBインスタンスのプロビジョニング",
+            "description": "Autonomous Databaseインスタンスのプロビジョニング",
+            "type": "freetier",
+            "filename": "https://oracle-livelabs.github.io/common/building-blocks/blocks/adb/provision/provision-console_ja.md"
+        },
+        {
+            "title": "演習2: グラフ・ユーザーの作成",
+            "description": "単純なグラフを作成し、ユーザー・インタフェースのナビゲート方法を学習します。",
+            "filename": "../../create-user/create-user_ja.md"
+        },
+        {
+            "title": "演習3: Hello World",
+            "description": "単純なグラフを作成し、ユーザー・インタフェースのナビゲート方法を学習します。",
+            "filename": "../../hello-world/hello-world_ja.md"
+        },
+        {
+            "title": "演習4: SH表からのグラフの作成",
+            "filename": "../../create-graph-from-sh-tables/create-graph-from-sh-tables_ja.md"
+        },
+        {
+            "title": "演習5: グラフ・アルゴリズムを使用したデータ・ウェアハウスの分析",
+            "filename": "../../run-graph-algorithms-on-data-warehouse/run-graph-algorithms-on-data-warehouse_ja.md"
+        },
+        {
+            "title": "サポートが必要ですか。",
+            "description": "ライブヘルプを受信するための一般的な問題と方向への解決策",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ja.md"
+        }
+    ]
+}
