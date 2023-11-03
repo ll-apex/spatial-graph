@@ -1,0 +1,34 @@
+{
+    "workshoptitle": "Utiliser des graphiques RDF dans Graph Studio",
+    "help": "livelabs-help-sg_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Présentation",
+            "description": "L'introduction est toujours la première. Le titre et le titre du menu de contenu correspondent pour l'introduction.",
+            "filename": "../../introduction/introduction_fr.md"
+        },
+        {
+            "title": "Introduction",
+            "description": "Prérequis pour LiveLabs (locations appartenant à Oracle). Le titre du laboratoire et le titre du menu Contenu (le titre ci-dessus) correspondent au laboratoire prérequis. Ce laboratoire est toujours le premier.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_fr.md"
+        },
+        {
+            "title": "Exercice 1 : Provisionner une instance ADB",
+            "description": "Provisionnement d'une instance Autonomous Database",
+            "filename": "https://oracle-livelabs.github.io/adb/shared/adb-15-minutes/provision-database/adb-provision-moviestream_fr.md"
+        },
+        {
+            "title": "Exercice 2 : Créer et valider un utilisateur de graphique RDF dans Graph Studio",
+            "filename": "../../rdf-graph-user-and-graph-studio/create-and-validate-an-rdf-graph-user_fr.md"
+        },
+        {
+            "title": "Exercice 3 : Interroger et visualiser le graphique RDF",
+            "filename": "../../query-and-visualize/query-and-visualize-the-rdf-graph_fr.md"
+        },
+        {
+            "title": "Besoin d'aide ?",
+            "description": "Solutions aux problèmes courants et instructions pour recevoir de l'aide en direct",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_fr.md"
+        }
+    ]
+}
