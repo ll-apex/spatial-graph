@@ -1,0 +1,29 @@
+{
+  "workshoptitle": "Graph Studio：使用 Autonomous Database 中的图形查询查找循环支付链",
+    "help": "livelabs-help-sg_us@oracle.com",
+	"tutorials": [
+    {
+        "title": "简介",
+        "description": "关于本次研讨会",
+        "filename": "../../introduction/introduction_zh-CN.md"
+    },
+    {
+        "title": "入门",
+        "description": "本次研讨会的先决条件",
+        "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs_zh-CN.md"        
+    },
+    {
+        "title": "实验 1：在 Graph Studio 中创建属性图",
+        "filename": "../../create-graph/create-graph_zh-CN.md"
+    },
+    {
+        "title": "实验 2：查询和可视化属性图",
+        "filename": "../../query-graph/query-graph_zh-CN.md"
+    },
+    {
+        "title": "需要帮助？",
+        "description": "接收实时帮助的常见问题和方向的解决方案",
+        "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_zh-CN.md"
+    }
+    ]
+}
