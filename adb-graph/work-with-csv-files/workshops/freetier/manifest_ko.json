@@ -1,0 +1,42 @@
+{
+    "workshoptitle": "Graph Studio: Autonomous Database에서 그래프 쿼리로 순환형 결제 체인 찾기",
+    "include": {
+        "iam-compartment-create-body_ko.md":"https://oracle-livelabs.github.io/common/building-blocks/tasks/iam/compartment-create-body_ko.md"
+       },
+    "variables": ["/common/building-blocks/variables/variables.json"],
+    "help": "livelabs-help-sg_us@oracle.com",
+	"tutorials": [
+    {
+        "title": "소개",
+        "description": "이 워크샵의 개요입니다.",
+        "filename": "../../introduction/introduction_ko.md"
+    },
+    {
+        "title": "시작하기",
+        "description": "이 워크샵의 전제 조건",
+        "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_ko.md"
+    },
+    {
+        "title": "실습 1: 설정",
+        "description": "프리티어",
+        "filename": "../../setup/setup_ko.md"
+    },
+    {
+        "title": "실습 2: 그래프 생성",
+        "filename": "../../create-graph/create-graph-me_ko.md"
+    },
+    {
+        "title": "실습 3: 그래프 쿼리 및 시각화",
+        "filename": "../../query-graph/query-graph_ko.md"
+    },
+    {
+        "title": "실습 4: 정리: Graph Studio 및 ADB 종료",
+        "filename": "../../destroy-environment/destroy-environment_ko.md"
+    },
+    {
+        "title": "도움이 필요합니까?",
+        "description": "일반적인 문제 해결 및 실시간 도움말 수신 방향",
+        "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ko.md"
+    }
+      ]
+  }
