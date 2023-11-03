@@ -1,0 +1,40 @@
+{
+    "workshoptitle": "Introducción a Graph Studio",
+    "help": "livelabs-help-db_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "Introducción",
+            "description": "Introducción al taller y descripción general del producto.",
+            "filename": "../../introduction/introduction_es.md"
+        },
+        {
+            "title": "Introducción",
+            "description": "Requisitos para clientes que utilizan arrendamientos de prueba gratuita y de pago, y cuentas Siempre gratis. ",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_es.md"
+        },
+        {
+            "title": "Laboratorio 1: Creación de un usuario de gráfico",
+            "description": "Cree un gráfico simple y aprenda a navegar por la interfaz de usuario.",
+            "filename": "../../create-user/create-user_es.md"
+        },
+        {
+            "title": "Laboratorio 2: Hello World",
+            "description": "Cree un gráfico simple y aprenda a navegar por la interfaz de usuario.",
+            "filename": "../../hello-world/hello-world_es.md"
+        },
+        {
+            "title": "Laboratorio 3: Creación de un gráfico a partir de las tablas SH",
+            "filename": "../../create-graph-from-sh-tables/create-graph-from-sh-tables_es.md"
+        },
+        {
+            "title": "Laboratorio 4: Análisis de un almacén de datos con algoritmos de gráficos",
+            "filename": "../../run-graph-algorithms-on-data-warehouse/run-graph-algorithms-on-data-warehouse_es.md"
+        },
+        {
+            "title": "¿Necesita Ayuda?",
+            "description": "Soluciones a problemas comunes e instrucciones para recibir ayuda en directo",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_es.md"
+        }
+
+    ]
+}
