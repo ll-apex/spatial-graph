@@ -1,0 +1,53 @@
+{
+    "workshoptitle": "Einführung in Oracle Spatial Studio",
+    "help": "livelabs-help-db_us@oracle.com",
+    "tutorials": [
+      {
+        "title": "Erste Schritte",
+        "description": "Bei Oracle Cloud anmelden",
+        "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_de.md"
+      },
+      {
+        "title": "Einführung",
+        "filename": "../introduction/introduction_de.md"
+      },
+      {
+        "title": "Übung 1: Autonomous Database",
+        "filename": "https://oracle-livelabs.github.io/adb/shared/adb-provision/adb-provision_de.md"
+      },
+      {
+        "title": "Übung 2: SQL Developer Web",
+        "description": "SQL Developer Web",
+        "filename": "https://oracle-livelabs.github.io/adb/shared/adb-sqldevweb/adb-sqldevweb_de.md"
+      },
+      {
+        "title": "Übung 3: Spatial Studio Repo-Schema",
+        "filename": "../../../../spatial-studio/env/repo-schema/repo-schema_de.md"
+      },    
+      {
+        "title": "Übung 4: Räumliches Studio bereitstellen",
+        "filename": "../../../../spatial-studio/env/env-marketplace/env-marketplace_de.md"
+      },
+      {
+        "title": "Übung 5: Daten laden",
+        "filename": "../../../../spatial-studio/intro/load-data/load-data_de.md"
+      },
+      {
+        "title": "Übung 6: Projekt erstellen",
+        "filename": "../../../../spatial-studio/intro/create-project/create-project_de.md"
+      },
+      {
+        "title": "Übung 7: Punktstyling erkunden",
+        "filename": "../../../../spatial-studio/intro/apply-styling/apply-styling_de.md"
+      },
+      {
+        "title": "Übung 8: Ebeneninteraktionen untersuchen",
+        "filename": "../../../../spatial-studio/intro/apply-interactions/apply-interactions_de.md"
+      },
+      {
+        "title": "Brauchen Sie Hilfe?",
+        "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+        "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_de.md"
+      }
+    ]
+}
