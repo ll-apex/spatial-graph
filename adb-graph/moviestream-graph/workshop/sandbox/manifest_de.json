@@ -1,0 +1,35 @@
+{
+    "workshoptitle": "Mit Graph Analytics Filme empfehlen",
+    "help": "livelabs-help-sg_us@oracle.com",
+    "include": {
+        "adb-goto-graph-studio_de.md":"/common/building-blocks/tasks/adb/goto-graph-studio_de.md",
+        "adb-create-graph_de.md":"/common/building-blocks/tasks/adb/create-graph_de.md"     
+      },
+    "variables": ["./variables.json"],
+    "tutorials": [
+        {
+            "title": "Mit Graph Analytics Filme empfehlen",
+            "description": "Die Einführung steht immer an erster Stelle. Titel und Inhalt des Menüs stimmen für die Einführung überein.",
+            "filename": "../../introduction/introduction_de.md"
+        },
+        {
+            "title": "Erste Schritte",
+            "description": "Voraussetzungen für LiveLabs (Mandanten im Besitz von Oracle). Der Titel der Übung und der Titel des Inhaltsmenüs (obener Titel) stimmen mit dem Titel der erforderlichen Übung überein. Diese Übung ist immer die erste.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs_de.md"
+        },
+        {
+            "title": "Übung 1: Diagramm erstellen",
+            "filename": "../../create-graph/create-graph_de.md"
+        },
+        {
+            "title": "Übung 2: Diagramm abfragen und visualisieren",
+            "filename": "../../query-and-visualize/query-and-visualize_de.md"
+        },
+        {
+            "title": "Brauchen Sie Hilfe?",
+            "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_de.md"
+        }
+
+    ]
+}
