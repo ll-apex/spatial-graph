@@ -1,0 +1,41 @@
+{
+    "workshoptitle": "Oracle Spatial Studio 簡介",
+      "include": {"starter-file.sql":"../../data-load/files/starter-file.sql",
+      "sample.json":"../../data-load/files/sample.json",
+      "step2_zh-TW.md":"../../data-load/files/step2_zh-TW.md"},
+      "support": "https://community.oracle.com/tech/developers/categories/autonomous-database-shared",
+      "help": "livelabs-help-db_us@oracle.com",
+    "tutorials": [
+      {
+        "title": "簡介",
+        "filename": "../introduction/introduction_zh-TW.md",
+        "type": "freetier"
+      },  
+      {
+        "title": "開始使用",
+        "description": "登入 Oracle Cloud",
+        "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_zh-TW.md"
+    }, 
+      {
+      "title": "實驗室 1：載入空間資料",
+      "filename": "../../../load-spatial-data/load-spatial-data_zh-TW.md"
+  },
+  {
+    "title": "實驗室 2：建立專案",
+    "filename": "../../../create-project/create-project_zh-TW.md"
+},
+{
+  "title": "實驗室 3：設定地圖",
+  "filename": "../../../apply-map-styling/apply-map-styling_zh-TW.md"
+},
+{
+  "title": "實驗室 4：執行空間分析",
+  "filename": "../../../spatial-analysis-intro/spatial-analysis-intro_zh-TW.md"
+},
+{
+    "title": "需要協助嗎？",
+    "description": "接收即時說明常見問題的解決方案和指示",
+    "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_zh-TW.md"
+}
+    ]
+}
