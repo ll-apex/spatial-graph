@@ -1,0 +1,35 @@
+{
+    "workshoptitle": "Graph StudioでのRDFグラフの操作",
+    "help": "livelabs-help-sg_us@oracle.com",
+    "tutorials": [
+      {
+          "title": "概要",
+          "description": "導入は常に最初です。概要のタイトルとコンテンツ・メニューのタイトルが一致します。",
+          "filename": "../../introduction/introduction_ja.md"
+      },
+      {
+          "title": "開始",
+          "description": "LiveLabs (Oracle所有テナンシ)の前提条件。ラボのタイトルとコンテンツ・メニューのタイトル(上のタイトル)は、前提条件ラボと一致します。この研究室はいつも先です。",
+          "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs_ja.md"
+      },
+
+      {
+          "title": "演習1: ADBインスタンスのプロビジョニング",
+          "description": "Autonomous Databaseインスタンスのプロビジョニング",
+          "filename": "https://oracle-livelabs.github.io/adb/shared/adb-15-minutes/provision-database/adb-provision-moviestream_ja.md"
+      },
+      {
+          "title": "演習2: Graph StudioでのRDFグラフ・ユーザーの作成および検証",
+          "filename": "../../rdf-graph-user-and-graph-studio/create-and-validate-an-rdf-graph-user_ja.md"
+      },
+      {
+          "title": "演習3: RDFグラフの問合せおよびビジュアル化",
+          "filename": "../../query-and-visualize/query-and-visualize-the-rdf-graph_ja.md"
+      },
+      {
+          "title": "サポートが必要ですか。",
+          "description": "ライブヘルプを受信するための一般的な問題と方向への解決策",
+          "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_ja.md"
+      }
+    ]
+}
