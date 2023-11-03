@@ -1,0 +1,53 @@
+{
+    "workshoptitle": "Introducción a Oracle Spatial Studio",
+    "help": "livelabs-help-db_us@oracle.com",
+    "tutorials": [
+      {
+        "title": "Introducción",
+        "description": "Conexión a Oracle Cloud",
+        "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_es.md"
+      },
+      {
+        "title": "Introducción",
+        "filename": "../introduction/introduction_es.md"
+      },
+      {
+        "title": "Laboratorio 1: Autonomous Database",
+        "filename": "https://oracle-livelabs.github.io/adb/shared/adb-provision/adb-provision_es.md"
+      },
+      {
+        "title": "Laboratorio 2: SQL Developer Web",
+        "description": "SQL Developer Web",
+        "filename": "https://oracle-livelabs.github.io/adb/shared/adb-sqldevweb/adb-sqldevweb_es.md"
+      },
+      {
+        "title": "Laboratorio 3: Esquema de repositorio de Spatial Studio",
+        "filename": "../../../../spatial-studio/env/repo-schema/repo-schema_es.md"
+      },    
+      {
+        "title": "Laboratorio 4: Aprovisionamiento de Spatial Studio",
+        "filename": "../../../../spatial-studio/env/env-marketplace/env-marketplace_es.md"
+      },
+      {
+        "title": "Laboratorio 5: Carga de datos",
+        "filename": "../../../../spatial-studio/intro/load-data/load-data_es.md"
+      },
+      {
+        "title": "Laboratorio 6: Crear proyecto",
+        "filename": "../../../../spatial-studio/intro/create-project/create-project_es.md"
+      },
+      {
+        "title": "Laboratorio 7: Estilo de punto de exploración",
+        "filename": "../../../../spatial-studio/intro/apply-styling/apply-styling_es.md"
+      },
+      {
+        "title": "Laboratorio 8: Exploración de las interacciones de capa",
+        "filename": "../../../../spatial-studio/intro/apply-interactions/apply-interactions_es.md"
+      },
+      {
+        "title": "¿Necesita Ayuda?",
+        "description": "Soluciones a problemas comunes e instrucciones para recibir ayuda en directo",
+        "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_es.md"
+      }
+    ]
+}
