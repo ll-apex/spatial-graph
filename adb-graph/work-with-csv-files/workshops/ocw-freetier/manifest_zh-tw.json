@@ -1,0 +1,55 @@
+{
+    "workshoptitle": "輕鬆使用圖表：尋找資料中的新洞察力",
+    "help": "livelabs-help-db_us@oracle.com",
+    "include": {
+     "iam-compartment-create-body_zh-TW.md":"https://oracle-livelabs.github.io/common/building-blocks/tasks/iam/compartment-create-body_zh-TW.md"
+    },
+    "variables": ["./variables.json"],
+    "tutorials": [
+        {
+            "title": "使用 Graph Studio",
+            "description": "「簡介」永遠優先。「簡介」的標題和內容功能表標題相符。",
+            "filename": "https://oracle-livelabs.github.io/spatial-graph/adb-graph/graph-made-easy/introduction-property-graph/introduction-property-graph_zh-TW.md"
+        },
+        {
+            "title": "開始使用",
+            "description": "LiveLabs (Oracle 擁有的租用戶) 的先決條件。先決條件實驗室的實驗室標題與「內容功能表」標題 (上述標題) 相符。這個實驗室永遠是第一個。",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_zh-TW.md"
+        },
+        {
+            "title": "實驗室 1：設定",
+            "description": "執行堆疊設定",
+            "filename": "../../setup/setup_zh-TW.md"
+        },
+        {
+            "title": "Lab 2：在 Graph Studio 中建立屬性圖表",
+            "filename": "../../create-graph/create-graph-me_zh-TW.md"
+        }, 
+        {
+            "title": "實驗室 3：查詢和視覺化特性圖表",
+            "filename": "../../query-graph/query-graph_zh-TW.md"
+        },
+        {
+            "title": "實驗室 4：在 Graph Studio 中建立 RDF 圖形 (選項 - 第 1 部分)",
+            "filename": "https://oracle-livelabs.github.io/spatial-graph/adb-graph/graph-made-easy/rdf-graph-user-and-graph-studio/create-and-validate-an-rdf-graph-user_zh-TW.md"
+        },
+        {
+            "title": "實驗室 5：查詢並視覺化 RDF 圖表 (選項 - 第 2 部分)",
+            "filename": "https://oracle-livelabs.github.io/spatial-graph/adb-graph/graph-made-easy/rdf-graph-user-and-graph-studio/create-and-validate-an-rdf-graph-user_zh-TW.md"
+        },
+        {
+            "title": "實驗室 5：查詢並視覺化 RDF 圖表 (選項 - 第 2 部分)",
+            "filename": "https://oracle-livelabs.github.io/spatial-graph/adb-graph/graph-made-easy/query-and-visualize/query-and-visualize-the-rdf-graph_zh-TW.md"
+
+        },
+        {
+            "title": "清除",
+            "description": "設定中建立的已毀棄環境 ",
+            "filename": "../../destroy-environment/destroy-environment_zh-TW.md"
+        },
+        {
+        "title": "Oracle CloudWorld 2023 - 取得說明",
+        "filename": "https://oracle-livelabs.github.io/common/support/ocwsupportlab/ocwsupportlab_zh-TW.md"
+        }
+    ]
+}
