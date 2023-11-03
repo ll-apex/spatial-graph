@@ -1,0 +1,56 @@
+{
+    "workshoptitle": "Oracle Spatial 및 Python으로 의심스러운 금융 거래를 정확히 파악",
+      "help": "livelabs-help-db_us@oracle.com",
+      "tutorials": [
+        {
+          "title": "소개",
+          "description":"소개",
+          "filename": "../introduction/introduction_ko.md"
+        },
+        {
+          "title": "시작하기",
+          "description": "Oracle Cloud에 로그인",
+          "filename": "https://raw.githubusercontent.com/oracle-livelabs/common/main/labs/cloud-login/cloud-login-livelabs2_ko.md"
+        },
+        {
+          "title": "실습 1: JupyterLab 액세스",
+          "description": "...",
+          "filename": "../../../access-jupyterlab/access-jupyterlab_ko.md"
+        },
+        {
+          "title": "실습 2: Autonomous Database 생성",
+          "description": "...",
+          "filename": "../../../create-adb/create-adb_ko.md"
+        },
+        {
+          "title": "실습 3: Python에서 Autonomous Database에 연결",
+          "description": "...",
+          "filename": "../../../connect-to-adb/connect-to-adb_ko.md"
+        }, 
+        {
+          "title": "실습 4: 데이터 준비",
+          "description": "...",
+          "filename": "../../../prepare-data/prepare-data_ko.md"
+        },   
+        {
+          "title": "실습 5: 데이터 탐색",
+          "description": "...",
+          "filename": "../../../explore-data/explore-data_ko.md"
+        },  
+        {
+          "title": "실습 6: 의심스러운 트랜잭션 감지",
+          "description": "...",
+          "filename": "../../../detect-anomalies/detect-anomalies_ko.md"
+        },  
+        {
+          "title": "실습 7: 정리",
+          "description": "...",
+          "filename": "../../../cleanup/cleanup_ko.md"
+        },
+        {
+          "title": "도움이 필요합니까?",
+          "description": "일반적인 문제 해결 및 실시간 도움말 수신 방향",
+          "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_ko.md"
+        }
+    ]
+}
