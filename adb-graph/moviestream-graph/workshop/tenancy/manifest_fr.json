@@ -1,0 +1,45 @@
+{
+    "workshoptitle": "Utiliser l'analyse graphique pour recommander des films",
+    "help": "livelabs-help-db_us@oracle.com",
+    "include": {
+     "iam-compartment-create-body_fr.md":"https://oracle-livelabs.github.io/common/building-blocks/tasks/iam/compartment-create-body_fr.md",
+     "adb-goto-graph-studio_fr.md":"/common/building-blocks/tasks/adb/goto-graph-studio_fr.md",
+     "adb-create-graph_fr.md":"/common/building-blocks/tasks/adb/create-graph_fr.md"
+    },
+    "variables": ["./variables.json"],
+    "tutorials": [
+        {
+            "title": "Utiliser l'analyse graphique pour recommander des films",
+            "description": "L'introduction est toujours la première. Le titre et le titre du menu de contenu correspondent pour l'introduction.",
+            "filename": "../../introduction/introduction_fr.md"
+        },
+        {
+            "title": "Introduction",
+            "description": "Prérequis pour LiveLabs (locations appartenant à Oracle). Le titre du laboratoire et le titre du menu Contenu (le titre ci-dessus) correspondent au laboratoire prérequis. Ce laboratoire est toujours le premier.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_fr.md"
+        },      
+        {
+            "title": "Exercice 1 : Configuration",
+            "description": "Configurer en exécutant Stack.",
+            "filename": "../../setup/setup_fr.md"
+        },
+        {
+            "title": "Exercice 2 : Créer un graphique de propriétés dans Graph Studio",
+            "filename": "../../create-graph/create-graph-tenancy_fr.md"
+        },
+        {
+            "title": "Exercice 3 : Interroger et visualiser le graphique",
+            "filename": "../../query-and-visualize/query-and-visualize_fr.md"
+        },
+        {
+            "title": "Atelier 4 : Nettoyage",
+            "description": "Environnement détruit créé lors de la configuration ",
+            "filename": "../../destroy-environment/destroy-environment_fr.md"
+        },
+        {
+            "title": "Besoin d'aide ?",
+            "description": "Solutions aux problèmes courants et instructions pour recevoir de l'aide en direct",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_fr.md"
+        }
+    ]
+}
