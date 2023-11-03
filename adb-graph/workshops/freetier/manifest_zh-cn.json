@@ -1,0 +1,40 @@
+{
+    "workshoptitle": "Graph Studio 入门",
+    "help": "livelabs-help-db_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "简介",
+            "description": "研讨会简介和产品概述。",
+            "filename": "../../introduction/introduction_zh-CN.md"
+        },
+        {
+            "title": "入门",
+            "description": "客户使用免费试用和付费租户以及始终免费账户的先决条件。 ",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_zh-CN.md"
+        },
+        {
+            "title": "练习 1：创建图形用户",
+            "description": "创建一个简单的图形，并了解如何导航用户界面。",
+            "filename": "../../create-user/create-user_zh-CN.md"
+        },
+        {
+            "title": "实验室 2:Hello World",
+            "description": "创建一个简单的图形，并了解如何导航用户界面。",
+            "filename": "../../hello-world/hello-world_zh-CN.md"
+        },
+        {
+            "title": "练习 3：根据 SH 表创建图形",
+            "filename": "../../create-graph-from-sh-tables/create-graph-from-sh-tables_zh-CN.md"
+        },
+        {
+            "title": "实验室 4：使用图形算法分析数据仓库",
+            "filename": "../../run-graph-algorithms-on-data-warehouse/run-graph-algorithms-on-data-warehouse_zh-CN.md"
+        },
+        {
+            "title": "需要帮助？",
+            "description": "接收实时帮助的常见问题和方向的解决方案",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_zh-CN.md"
+        }
+
+    ]
+}
