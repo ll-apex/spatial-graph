@@ -1,0 +1,42 @@
+{
+    "workshoptitle": "Graph Studio : recherche de chaînes de paiement circulaires avec des requêtes de graphique dans Autonomous Database",
+    "include": {
+        "iam-compartment-create-body_fr.md":"https://oracle-livelabs.github.io/common/building-blocks/tasks/iam/compartment-create-body_fr.md"
+       },
+    "variables": ["/common/building-blocks/variables/variables.json"],
+    "help": "livelabs-help-sg_us@oracle.com",
+	"tutorials": [
+    {
+        "title": "Présentation",
+        "description": "Présentation de cet atelier.",
+        "filename": "../../introduction/introduction_fr.md"
+    },
+    {
+        "title": "Introduction",
+        "description": "Prérequis pour cet atelier",
+        "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_fr.md"
+    },
+    {
+        "title": "Exercice 1 : Configuration",
+        "description": "gratuit",
+        "filename": "../../setup/setup_fr.md"
+    },
+    {
+        "title": "Exercice 2 : Créer un graphique",
+        "filename": "../../create-graph/create-graph-me_fr.md"
+    },
+    {
+        "title": "Exercice 3 : Interroger et visualiser le graphique",
+        "filename": "../../query-graph/query-graph_fr.md"
+    },
+    {
+        "title": "Exercice 4 : Nettoyage : Mettre fin à Graph Studio et ADB",
+        "filename": "../../destroy-environment/destroy-environment_fr.md"
+    },
+    {
+        "title": "Besoin d'aide ?",
+        "description": "Solutions aux problèmes courants et instructions pour recevoir de l'aide en direct",
+        "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_fr.md"
+    }
+      ]
+  }
