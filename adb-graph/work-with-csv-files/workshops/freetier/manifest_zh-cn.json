@@ -1,0 +1,42 @@
+{
+    "workshoptitle": "Graph Studio：使用 Autonomous Database 中的图形查询查找循环支付链",
+    "include": {
+        "iam-compartment-create-body_zh-CN.md":"https://oracle-livelabs.github.io/common/building-blocks/tasks/iam/compartment-create-body_zh-CN.md"
+       },
+    "variables": ["/common/building-blocks/variables/variables.json"],
+    "help": "livelabs-help-sg_us@oracle.com",
+	"tutorials": [
+    {
+        "title": "简介",
+        "description": "本研讨会的概述。",
+        "filename": "../../introduction/introduction_zh-CN.md"
+    },
+    {
+        "title": "入门",
+        "description": "本次研讨会的先决条件",
+        "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_zh-CN.md"
+    },
+    {
+        "title": "实验室 1：设置",
+        "description": "网友",
+        "filename": "../../setup/setup_zh-CN.md"
+    },
+    {
+        "title": "实验 2：创建图形",
+        "filename": "../../create-graph/create-graph-me_zh-CN.md"
+    },
+    {
+        "title": "实验 3：查询和可视化图形",
+        "filename": "../../query-graph/query-graph_zh-CN.md"
+    },
+    {
+        "title": "实验室 4：清理：终止 Graph Studio 和 ADB",
+        "filename": "../../destroy-environment/destroy-environment_zh-CN.md"
+    },
+    {
+        "title": "需要帮助？",
+        "description": "接收实时帮助的常见问题和方向的解决方案",
+        "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_zh-CN.md"
+    }
+      ]
+  }
