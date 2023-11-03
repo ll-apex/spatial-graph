@@ -1,0 +1,46 @@
+{
+    "workshoptitle": "Oracle Autonomous Database에서 그래프 분석 시작하기",
+      "help": "livelabs-help-db_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "소개",
+            "description": "이 워크샵 정보",
+            "type": "odbw",
+            "filename": "../../introduction/introduction_ko.md"
+        },
+        {
+            "title": "시작하기",
+            "description": "이 워크샵의 전제 조건",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs2_ko.md"
+        },
+        {
+            "title": "실습 1: ADB Instance 프로비저닝",
+            "description": "Autonomous Database 인스턴스 프로비저닝",
+            "type": "livelabs",
+            "filename": "https://oracle-livelabs.github.io/adb/shared/adb-provision/adb-provision-conditional_ko.md"
+        },
+        {
+            "title": "실습 2: 그래프 지원 데이터베이스 유저 생성",
+            "description": "필요한 롤 및 권한을 가진 데이터베이스 유저 생성",
+            "filename": "../../../create-user/create-user_ko.md"
+        },
+        {
+            "title": "실습 3: Autonomous Database로 CSV 파일 로드",
+            "description": "데이터베이스 작업 데이터 로드를 사용하여 CSV 파일에서 데이터 로드",
+            "filename": "../../load-csv-files/load-csv-files_ko.md"
+        },
+        {
+            "title": "실습 4: 그래프 생성",
+            "filename": "../../create-graph/create-graph_ko.md"
+        },
+        {
+            "title": "실습 5: 그래프 쿼리 및 시각화",
+            "filename": "../../query-graph/query-graph_ko.md"
+        },
+        {
+            "title": "도움이 필요합니까?",
+            "description": "일반적인 문제 해결 및 실시간 도움말 수신 방향",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_ko.md"
+        }
+    ]
+}
