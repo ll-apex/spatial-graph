@@ -1,0 +1,56 @@
+{
+    "workshoptitle": "워크샵 제목이 매니페스트 파일에 정의됨",
+    "include": {"starter-file.sql":"../../data-load/files/starter-file.sql",
+                "sample.json":"../../data-load/files/sample.json",
+                "step2_ko.md":"../../data-load/files/step2_ko.md"},
+    "variables": ["../../variables/variables.json",
+                 "../../variables/variables-in-another-file.json"],
+    "help": "livelabs-help-**enterarea**_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "소개",
+            "description": "소개가 항상 먼저입니다. 제목 및 내용 메뉴 제목이 소개와 일치합니다.",
+            "filename": "../../introduction/introduction_ko.md"
+        },
+        {
+            "title": "시작하기",
+            "description": "무료 평가판 및 유료 테넌시와 상시 무료 계정(해당하는 경우)을 사용하는 고객을 위한 사전 요구사항입니다. 필요 조건 랩에 대한 실습 제목과 목차 메뉴 제목(위 제목)이 일치합니다. 이 실험실은 항상 먼저입니다.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_ko.md"
+        },
+        {
+            "title": "실습 1: Instance 프로비저닝",
+            "description": "도입 이후의 실습은 실습 1부터 시작하여 번호가 매겨집니다.",
+            "filename": "../../provision/provision_ko.md"
+        },
+        {
+            "title": "실습 2: 환경 설정",
+            "filename": "../../setup/setup_ko.md"
+        },
+        {
+            "title": "실습 3: 인스턴스로 데이터 로드",
+            "filename": "../../data-load/data-load_ko.md"
+        },
+        {
+            "title": "실습 4: 데이터 질의",
+            "filename": "../../query/query_ko.md"
+        },
+        {
+            "title": "실습 5: LiveLabs의 테이블",
+            "filename": "../../tables/tables_ko.md"
+        },
+        {
+            "title": "실습 6: LiveLabs의 변수",
+            "filename": "../../variables/variables_ko.md"
+        },
+        {
+            "title": "도움이 필요합니까?",
+            "description": "일반적인 문제 해결 및 실시간 도움말 수신 방향",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ko.md"
+        },
+        {
+            "title": "기타 LiveLabs",
+            "description": "기타 LiveLabs",
+            "filename": "../../other-livelabs/other-livelabs_ko.md"
+        }
+    ]
+}
