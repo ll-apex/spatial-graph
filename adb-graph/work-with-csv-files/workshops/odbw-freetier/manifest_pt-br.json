@@ -1,0 +1,46 @@
+{
+    "workshoptitle": "Introdução à Análise de Gráficos no Oracle Autonomous Database",
+      "help": "livelabs-help-db_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "Introdução",
+            "description": "Sobre este workshop",
+            "type": "odbw",
+            "filename": "../../introduction/introduction_pt-BR.md"
+        },
+        {
+            "title": "Introdução",
+            "description": "Pré-requisitos para este workshop.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 1: Provisionar uma Instância do ADB",
+            "description": "Provisionamento de uma Instância do Autonomous Database",
+            "type": "freetier",
+            "filename": "https://oracle-livelabs.github.io/adb/shared/adb-provision/adb-provision-conditional_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 2: Criar um usuário de banco de dados habilitado para gráfico",
+            "description": "Criar um usuário de banco de dados com as atribuições e os privilégios necessários",
+            "filename": "../../../create-user/create-user_pt-BR.md"
+        },                
+        {
+            "title": "Laboratório 3: Carregar arquivos CSV no Autonomous Database",
+            "description": "Carregar dados de arquivos CSV usando o Carregamento de Dados do Database Actions",
+            "filename": "../../load-csv-files/load-csv-files_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 4: Criar um gráfico",
+            "filename": "../../create-graph/create-graph_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 5: Consultar e visualizar o gráfico",
+            "filename": "../../query-graph/query-graph_pt-BR.md"
+        },
+        {
+            "title": "Precisa de Ajuda?",
+            "description": "Soluções para Problemas Comuns e Instruções para Receber Ajuda ao Vivo",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_pt-BR.md"
+        }
+      ]
+  }
