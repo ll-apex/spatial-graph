@@ -1,0 +1,37 @@
+{
+  "workshoptitle": "APEX에서 맵 및 공간 시작하기",
+  "help": "livelabs-help-db_us@oracle.com",
+	"tutorials": [
+    {
+      "title": "소개",
+      "description": "소개",
+      "filename": "../introduction/introduction_ko.md"
+    },
+    {
+      "title": "시작하기",
+      "description": "Oracle APEX 작업영역 생성",
+      "filename": "https://oracle-livelabs.github.io/apex/apex-212/common/1-sign-up-apex/1-sign-up-apex_ko.md"
+    },
+    {
+      "title": "실습 1: 샘플 맵 애플리케이션 설치",
+      "filename": "../../../install-sample-maps-app/install-sample-maps-app_ko.md"
+    },
+    {
+      "title": "실습 2: 마법사를 사용하여 맵 생성",
+      "filename": "../../../create-map-with-wizard/create-map-with-wizard_ko.md"
+    },
+    {
+      "title": "실습 3: 처음부터 맵 생성",
+      "filename": "../../../create-map-from-scratch/create-map-from-scratch_ko.md"
+    },
+    {
+      "title": "실습 4: 공간 분석 통합",
+      "filename": "../../../add-spatial-analysis/add-spatial-analysis_ko.md"
+    },
+    {
+      "title": "도움이 필요합니까?",
+      "description": "일반적인 문제 해결 및 실시간 도움말 수신 방향",
+      "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ko.md"
+    }
+  ]
+}
