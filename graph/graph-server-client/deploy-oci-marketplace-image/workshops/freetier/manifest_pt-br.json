@@ -1,0 +1,61 @@
+{
+    "workshoptitle":"Analise, Consulte e Visualize Gráficos de Propriedades com o Oracle Database",
+    "help": "livelabs-help-sg_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "Introdução",
+            "description": "Introdução",
+            "filename":"../../intro/intro_pt-BR.md"
+        },
+        {
+            "title": "Introdução",
+            "description": "Registrar uma conta do Free Tier",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 1: Criar Chaves SSH",
+            "description":"Criar Chaves SSH",
+            "filename":"https://oracle-livelabs.github.io/common/labs/generate-ssh-key/generate-ssh-keys_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 2: Criar um Autonomous Database",
+            "description":"Configurar uma instância de banco de dados autônomo Always Free",
+            "filename":"../../provision-free-tier-adb/provision-free-tier-adb_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 3: Criar um Servidor de Gráficos",
+            "description":"Implantar a imagem do Servidor de Gráficos e do Marketplace do Cliente",
+            "filename":"../../deploy-image/deploy-image_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 4: Criar e Ativar um Usuário de Gráfico",
+            "description":"Criar e ativar um usuário de gráfico usando o Database Actions",
+            "filename":"../../create-graph-user/create-graph-user_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 5: Criar e Preencher Tabelas",
+            "description":"Criar e preencher tabelas com o conjunto de dados Customer 360",
+            "filename":"../../create-and-populate-tables/create-and-populate-tables_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 6: Criar um Gráfico",
+            "description":"Criar um gráfico",
+            "filename":"../../create-graph/create-graph_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 7: Consultar e Analisar o Gráfico",
+            "description":"Consultar e Analisar o Gráfico",
+            "filename":"../../query-and-analyze-graphs/query-and-analyze-graphs_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 8: Visualize o Gráfico",
+            "description":"Visualizar o Gráfico",
+            "filename":"../../visualize-graphs/visualize-graphs_pt-BR.md"
+        },
+        {
+            "title": "Precisa de Ajuda?",
+            "description": "Soluções para Problemas Comuns e Instruções para Receber Ajuda ao Vivo",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_pt-BR.md"
+        }
+    ]
+}
