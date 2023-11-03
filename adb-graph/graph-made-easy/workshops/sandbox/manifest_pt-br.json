@@ -1,0 +1,53 @@
+{
+    "workshoptitle": "Gráficos Facilitados: Encontre Novos Insights em seus Dados",
+    "help": "livelabs-help-db_us@oracle.com",
+    "tutorials": [
+        {
+          "title": "Trabalhar com Gráficos de Propriedade no Graph Studio",
+          "description": "A introdução é sempre a primeira. O título e o título do menu de conteúdo correspondem à Introdução.",
+          "filename": "../../introduction-property-graph/introduction-property-graph_pt-BR.md"
+        },
+        {
+          "title": "Introdução",
+          "description": "Pré-requisitos para LiveLabs (tenancies de propriedade da Oracle). O título do laboratório e o título do Menu de conteúdo (o título acima) correspondem ao laboratório de Pré-requisitos. Este laboratório é sempre o primeiro.",
+          "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_pt-BR.md"
+        },
+        {
+            "title": "Configuração",
+            "description": "Configurar executando o Stack",
+            "filename": "../../setup/setup_pt-BR.md"
+        },
+        {
+          "title": "Laboratório 1: Criar um gráfico",
+          "filename": "../../create-graph/create-graph_pt-BR.md"
+        },
+        {
+          "title": "Laboratório 2: Consultar e visualizar o gráfico",
+          "filename": "../../query-graph/graph-query-update_pt-BR.md"
+        },
+        {
+          "title": "Trabalhar com Gráficos RDF no Graph Studio",
+          "description": "A introdução é sempre a primeira. O título e o título do menu de conteúdo correspondem à Introdução.",
+          "filename": "../../introduction-rdf/introduction-rdf_pt-BR.md"
+        },
+        {
+          "title": "Laboratório 1: Criar um gráfico RDF no Graph Studio",
+          "filename": "../../rdf-graph-user-and-graph-studio/create-and-validate-an-rdf-graph-user_pt-BR.md"
+        },
+        {
+          "title": "Laboratório 2: Consultar e Visualizar o Gráfico RDF",
+          "filename": "../../query-and-visualize/query-and-visualize-the-rdf-graph_pt-BR.md"
+        },
+        {
+            "title": "Destruir Ambiente",
+            "description": "Ambiente destruído criado na configuração ",
+            "filename": "../../destroy-environment/destroy-environment_pt-BR.md"
+        },
+        {
+          "title": "Precisa de Ajuda?",
+          "description": "Soluções para Problemas Comuns e Instruções para Receber Ajuda ao Vivo",
+          "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_pt-BR.md"
+        }
+
+    ]
+}
