@@ -1,0 +1,45 @@
+{
+    "workshoptitle": "Oracle Spatial Studio 소개",
+      "include": {"starter-file.sql":"../../data-load/files/starter-file.sql",
+      "sample.json":"../../data-load/files/sample.json",
+      "step2_ko.md":"../../data-load/files/step2_ko.md"},
+      "support": "https://community.oracle.com/tech/developers/categories/autonomous-database-shared",
+      "help": "livelabs-help-db_us@oracle.com",
+    "tutorials": [
+      {
+        "title": "소개",
+        "filename": "../introduction/introduction_ko.md",
+        "type": "reservation"
+      },  
+      {
+        "title": "시작하기",
+        "description": "Oracle Cloud에 로그인",
+        "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs2_ko.md"
+    }, 
+   {
+      "title": "실습 1: Spatial Studio 액세스",
+      "filename": "../../../env-res/env-res_ko.md"
+  },
+  {
+      "title": "실습 2: 공간 데이터 로드",
+      "filename": "../../../load-spatial-data/load-spatial-data_ko.md"
+  },
+  {
+    "title": "실습 3: 프로젝트 생성",
+    "filename": "../../../create-project/create-project_ko.md"
+},
+{
+  "title": "실습 4: 맵 구성",
+  "filename": "../../../apply-map-styling/apply-map-styling_ko.md"
+},
+{
+  "title": "실습 5: 공간 분석 수행",
+  "filename": "../../../spatial-analysis-intro/spatial-analysis-intro_ko.md"
+},
+{
+    "title": "도움이 필요합니까?",
+    "description": "일반적인 문제 해결 및 실시간 도움말 수신 방향",
+    "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_ko.md"
+}
+    ]
+}
