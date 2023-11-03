@@ -1,0 +1,52 @@
+{
+    "workshoptitle": "利用 Oracle Spatial Studio 評估海平面上升的影響",
+      "support": "https://community.oracle.com/tech/developers/categories/autonomous-database-shared",
+      "help": "livelabs-help-sg_us@oracle.com",
+    "tutorials": [
+      {
+        "title": "簡介",
+        "filename": "../introduction/introduction_zh-TW.md"
+      },  
+      {
+        "title": "開始使用",
+        "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_zh-TW.md"
+      },
+   {
+      "title": "實驗室 1：將 Spatial Studio 部署至 Oracle Cloud",
+      "filename": "../../../env-mp-ocw/env-mp-ocw_zh-TW.md"
+  },
+  {
+      "title": "Lab 2：載入與準備資料",
+      "filename": "../../../slr-load-data/slr-load-data_zh-TW.md"
+  },
+  {
+    "title": "實驗室 3：視覺化空間資料",
+    "filename": "../../../slr-visualize/slr-visualize_zh-TW.md"
+},
+{
+  "title": "實驗室 4：分析空間關係",
+  "filename": "../../../slr-analyze/slr-analyze_zh-TW.md"
+},
+{
+  "title": "實驗室 5：儲存並分享結果",
+  "filename": "../../../slr-save-share/slr-save-share_zh-TW.md"
+},
+{
+  "title": "實驗室 6：清除選項 1：將 Spatial Studio 和 ADB 重設為研習前狀態",
+  "filename": "../../../reset/reset_zh-TW.md"
+},   
+{
+  "title": "實驗室 7：清理選項 2：終止空間工作室和 ADB",
+  "filename": "../../../env-mp-teardown/env-mp-teardown_zh-TW.md"
+},
+{
+    "title": "需要協助嗎？",
+    "description": "接收即時說明常見問題的解決方案和指示",
+    "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_zh-TW.md"
+},
+{
+  "title": "Oracle CloudWorld 2023 - 支援",
+   "filename": "https://oracle-livelabs.github.io/common/support/ocwsupportlab/ocwsupportlab_zh-TW.md"
+}
+   ]
+}
