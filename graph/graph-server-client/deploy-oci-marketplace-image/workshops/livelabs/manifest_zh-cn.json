@@ -1,0 +1,61 @@
+{
+    "workshoptitle":"使用 Oracle Database 分析、查询和可视化属性图形",
+    "help": "livelabs-help-sg_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "入门",
+            "description": "注册免费套餐账户",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs2_zh-CN.md"
+        },
+        {
+            "title": "简介",
+            "description": "简介",
+            "filename":"../../intro/intro_zh-CN.md"
+        },
+        {
+            "title": "练习 1：创建 SSH 密钥",
+            "description":"创建 SSH 密钥",
+            "filename":"https://oracle-livelabs.github.io/common/labs/generate-ssh-key/generate-ssh-keys_zh-CN.md"
+        },
+        {
+            "title": "练习 2：创建 Autonomous Database",
+            "description":"设置 Always Free 自治数据库实例",
+            "filename":"../../provision-free-tier-adb/provision-free-tier-adb_zh-CN.md"
+        },
+        {
+            "title": "练习 3：创建图形服务器",
+            "description":"部署图形服务器和客户端市场映像",
+            "filename":"../../deploy-image/deploy-image_zh-CN.md"
+        },
+        {
+            "title": "练习 4：创建并启用图形用户",
+            "description":"使用 Database Actions 创建和启用图形用户",
+            "filename":"../../create-graph-user/create-graph-user_zh-CN.md"
+        },
+        {
+            "title": "练习 5：创建和填充表",
+            "description":"使用 Customer 360 数据集创建和填充表",
+            "filename":"../../create-and-populate-tables/create-and-populate-tables_zh-CN.md"
+        },
+        {
+            "title": "实验 6：创建图形",
+            "description":"创建图形",
+            "filename":"../../create-graph/create-graph_zh-CN.md"
+        },
+        {
+            "title": "实验 7：查询和分析图形",
+            "description":"查询和分析图形",
+            "filename":"../../query-and-analyze-graphs/query-and-analyze-graphs_zh-CN.md"
+        },
+        {
+            "title": "实验 8：可视化图形",
+            "description":"可视化图形",
+            "filename":"../../visualize-graphs/visualize-graphs_zh-CN.md"
+        },
+        {
+            "title": "需要帮助？",
+            "description": "接收实时帮助的常见问题和方向的解决方案",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_zh-CN.md"
+        }
+    ]
+}
