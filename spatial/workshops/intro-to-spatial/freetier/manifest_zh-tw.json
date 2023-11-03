@@ -1,0 +1,57 @@
+{
+  "workshoptitle": "如何處理 Oracle Autonomous Database (ADB) 中的空間資料",
+  "help": "livelabs-help-db_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Oracle Spatial 簡介",
+      "type":"adb",
+      "description":"開始管理和分析 Oracle Autonomous Database 中的空間資料",
+      "filename": "../introduction/introduction_zh-TW.md"
+    },
+    {
+      "title": "開始使用",
+      "description": "登入 Oracle Cloud",
+      "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_zh-TW.md"
+    },
+    {
+      "title": "實驗室 1：佈建 Autonomous Database",
+      "description": "佈建新的 Autonomous Data Warehouse (ADW) 執行處理",
+      "filename": "https://raw.githubusercontent.com/oracle-livelabs/adb/main/shared/adb-provision/adb-provision_zh-TW.md"
+    },
+    {
+      "title": "實驗室 2：使用 SQL 工作表連線至 ADB",
+      "description": " SQL 工作表",
+      "filename": "https://raw.githubusercontent.com/oracle-livelabs/adb/main/shared/adb-sqldevweb/adb-sqldevweb_zh-TW.md"
+    },
+    {
+      "title": "實驗室 3：準備空間資料",
+      "description": "建立和設定空間資料",
+      "filename": "../../../create-spatial-data-adb/create-spatial-data-adb_zh-TW.md"
+    },
+    {
+      "title": "實驗室 4：執行空間查詢",
+      "description":"執行空間分析",
+      "filename": "../../../run-spatial-queries-adb/run-spatial-queries-adb_zh-TW.md"
+    },
+    {
+      "title": "實驗室 5 (選擇性)：傳回 GeoJSON",
+      "description":"傳回 GeoJSON",
+      "filename": "../../../return-geojson/return-geojson_zh-TW.md"
+    },
+    {
+      "title": "實驗室 6 (選擇性)：清除 - 將 ADB 重設為研習前狀態",
+      "description":"清除",
+      "filename": "../../../cleanup/cleanup_zh-TW.md"
+    },
+    {
+      "title": "實驗室 7 (選擇性)：清除 - 終止 ADB 執行處理",
+      "description":"清除",
+      "filename": "https://raw.githubusercontent.com/oracle-livelabs/common/main/labs/terminate-adb/terminate-adb_zh-TW.md"
+    },
+      {
+        "title": "需要協助嗎？",
+        "description": "接收即時說明常見問題的解決方案和指示",
+        "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_zh-TW.md"
+      }
+  ]
+}
