@@ -1,0 +1,29 @@
+{
+  "workshoptitle": "Graph Studio：尋找 Autonomous Database 中圖形查詢的循環付款鏈",
+    "help": "livelabs-help-sg_us@oracle.com",
+	"tutorials": [
+    {
+        "title": "簡介",
+        "description": "關於本工作坊",
+        "filename": "../../introduction/introduction_zh-TW.md"
+    },
+    {
+        "title": "開始使用",
+        "description": "此研習的先修課程",
+        "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs_zh-TW.md"        
+    },
+    {
+        "title": "實驗室 1：在 Graph Studio 中建立特性圖表",
+        "filename": "../../create-graph/create-graph_zh-TW.md"
+    },
+    {
+        "title": "實驗室 2：查詢特性圖表並加以視覺化",
+        "filename": "../../query-graph/query-graph_zh-TW.md"
+    },
+    {
+        "title": "需要協助嗎？",
+        "description": "接收即時說明常見問題的解決方案和指示",
+        "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_zh-TW.md"
+    }
+    ]
+}
