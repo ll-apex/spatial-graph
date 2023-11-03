@@ -1,0 +1,51 @@
+{
+    "workshoptitle": "Des graphiques simplifiés : découvrez de nouvelles informations dans vos données",
+    "help": "livelabs-help-db_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Utiliser les graphiques de propriétés dans Graph Studio",
+            "description": "L'introduction est toujours la première. Le titre et le titre du menu de contenu correspondent pour l'introduction.",
+            "filename": "../../introduction-property-graph/introduction-property-graph_fr.md"
+        },
+        {
+            "title": "Introduction",
+            "description": "Prérequis pour LiveLabs (locations appartenant à Oracle). Le titre du laboratoire et le titre du menu Contenu (le titre ci-dessus) correspondent au laboratoire prérequis. Ce laboratoire est toujours le premier.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/register-free-tier-account_fr.md"
+        },
+        {
+            "title": "Créer un compartiment (facultatif si vous en avez déjà un)",
+            "description": "Aide les utilisateurs à créer un compartiment dans OCI",
+            "filename": "../../sprint-create-compartment/sprint-create-compartment_fr.md"
+        },
+        {
+            "title": "Configuration",
+            "description": "Configurer en exécutant Stack",
+            "filename": "../../setup/setup_fr.md"
+        },
+        {
+            "title": "Exercice 1 : Créer un graphique",
+            "filename": "../../create-graph/create-graph_fr.md"
+        },
+        {
+            "title": "Exercice 2 : Interroger et visualiser le graphique",
+            "filename": "../../graph-query-update/graph-query-update_fr.md"
+        },
+        {
+            "title": "Lab 3 : Créer un graphique RDF dans Graph Studio (FACULTATIF - partie 1)",
+            "filename": "../../rdf-graph-user-and-graph-studio/create-and-validate-an-rdf-graph-user_fr.md"
+        },
+        {
+            "title": "Exercice 4 : Interroger et visualiser le graphique RDF (facultatif) - Partie 2",
+            "filename": "../../query-and-visualize/query-and-visualize-the-rdf-graph_fr.md"
+        },
+        {
+            "title": "Nettoyer",
+            "description": "Environnement détruit créé lors de la configuration ",
+            "filename": "../../destroy-environment/destroy-environment_fr.md"
+        },
+        {
+        "title": "Oracle CloudWorld 2022 - Obtenir de l'aide",
+        "filename": "https://oracle-livelabs.github.io/common/support/ocwsupportlab/ocwsupportlab_fr.md"
+        }
+    ]
+}
