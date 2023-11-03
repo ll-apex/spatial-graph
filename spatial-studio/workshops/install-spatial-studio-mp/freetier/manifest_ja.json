@@ -1,0 +1,37 @@
+{
+    "workshoptitle": "Cloud MarketplaceからのOracle Spatial Studioのインストール",
+    "help": "livelabs-help-db_us@oracle.com",
+    "tutorials": [
+      {
+        "title": "概要",
+        "filename": "../introduction/introduction_ja.md"
+      },
+      {
+        "title": "スタート・ガイド",
+        "description": "Oracle Cloudへのログイン",
+        "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_ja.md"
+      },
+      {
+        "title": "演習1: Autonomous Databaseのプロビジョニング",
+        "filename": "https://oracle-livelabs.github.io/adb/shared/adb-provision/adb-provision_ja.md"
+      },
+      {
+        "title": "演習2: SQL Developer Webを使用したADBへの接続",
+        "description": "SQL Developer Web",
+        "filename": "https://oracle-livelabs.github.io/adb/shared/adb-sqldevweb/adb-sqldevweb_ja.md"
+      },
+      {
+        "title": "演習3: Spatial Studioリポジトリのデータベース・ユーザー",
+        "filename": "../../../repo-schema/repo-schema_ja.md"
+      },    
+      {
+        "title": "演習4: Spatial Studioのインストール",
+        "filename": "../../../env-mp/env-mp_ja.md"
+      },
+      {
+        "title": "サポートが必要ですか。",
+        "description": "ライブヘルプを受信するための一般的な問題と方向への解決策",
+        "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ja.md"
+      }
+  ]
+}
