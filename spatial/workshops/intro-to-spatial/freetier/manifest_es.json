@@ -1,0 +1,57 @@
+{
+  "workshoptitle": "Cómo trabajar con datos espaciales en Oracle Autonomous Database (ADB)",
+  "help": "livelabs-help-db_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Introducción a Oracle Spatial",
+      "type":"adb",
+      "description":"Introducción a la gestión y el análisis de datos espaciales en Oracle Autonomous Database",
+      "filename": "../introduction/introduction_es.md"
+    },
+    {
+      "title": "Introducción",
+      "description": "Conexión a Oracle Cloud",
+      "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_es.md"
+    },
+    {
+      "title": "Laboratorio 1: Aprovisionamiento de Autonomous Database",
+      "description": "Aprovisionamiento de una nueva instancia de Autonomous Data Warehouse (ADW)",
+      "filename": "https://raw.githubusercontent.com/oracle-livelabs/adb/main/shared/adb-provision/adb-provision_es.md"
+    },
+    {
+      "title": "Práctica 2: Conexión a ADB con Hoja de Trabajo de SQL",
+      "description": " Hoja de Trabajo de SQL",
+      "filename": "https://raw.githubusercontent.com/oracle-livelabs/adb/main/shared/adb-sqldevweb/adb-sqldevweb_es.md"
+    },
+    {
+      "title": "Laboratorio 3: Preparación de datos espaciales",
+      "description": "Crear y configurar datos espaciales",
+      "filename": "../../../create-spatial-data-adb/create-spatial-data-adb_es.md"
+    },
+    {
+      "title": "Laboratorio 4: Ejecución de consultas espaciales",
+      "description":"Realizar análisis espaciales",
+      "filename": "../../../run-spatial-queries-adb/run-spatial-queries-adb_es.md"
+    },
+    {
+      "title": "Laboratorio 5 (opcional):  Vuelva a GeoJSON",
+      "description":"Devolver GeoJSON",
+      "filename": "../../../return-geojson/return-geojson_es.md"
+    },
+    {
+      "title": "Laboratorio 6 (Opcional): Limpieza - Restablecer ADB a estado previo al taller",
+      "description":"Limpiar",
+      "filename": "../../../cleanup/cleanup_es.md"
+    },
+    {
+      "title": "Laboratorio 7 (Opcional): Limpieza - Terminar instancia de ADB",
+      "description":"Limpiar",
+      "filename": "https://raw.githubusercontent.com/oracle-livelabs/common/main/labs/terminate-adb/terminate-adb_es.md"
+    },
+      {
+        "title": "¿Necesita Ayuda?",
+        "description": "Soluciones a problemas comunes e instrucciones para recibir ayuda en directo",
+        "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_es.md"
+      }
+  ]
+}
