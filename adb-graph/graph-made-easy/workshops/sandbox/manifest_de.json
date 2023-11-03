@@ -1,0 +1,53 @@
+{
+    "workshoptitle": "Diagramme leicht gemacht: Neue Einblicke in Ihre Daten finden",
+    "help": "livelabs-help-db_us@oracle.com",
+    "tutorials": [
+        {
+          "title": "Mit Eigenschaftsdiagrammen in Graph Studio arbeiten",
+          "description": "Die Einführung steht immer an erster Stelle. Titel und Inhalt des Menüs stimmen für die Einführung überein.",
+          "filename": "../../introduction-property-graph/introduction-property-graph_de.md"
+        },
+        {
+          "title": "Erste Schritte",
+          "description": "Voraussetzungen für LiveLabs (Mandanten im Besitz von Oracle). Der Titel der Übung und der Titel des Inhaltsmenüs (obener Titel) stimmen mit dem Titel der erforderlichen Übung überein. Diese Übung ist immer die erste.",
+          "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_de.md"
+        },
+        {
+            "title": "Einrichtung",
+            "description": "Durch Ausführung von Stack einrichten",
+            "filename": "../../setup/setup_de.md"
+        },
+        {
+          "title": "Übung 1: Diagramm erstellen",
+          "filename": "../../create-graph/create-graph_de.md"
+        },
+        {
+          "title": "Übung 2: Diagramm abfragen und visualisieren",
+          "filename": "../../query-graph/graph-query-update_de.md"
+        },
+        {
+          "title": "Mit RDF-Diagrammen in Graph Studio arbeiten",
+          "description": "Die Einführung steht immer an erster Stelle. Titel und Inhalt des Menüs stimmen für die Einführung überein.",
+          "filename": "../../introduction-rdf/introduction-rdf_de.md"
+        },
+        {
+          "title": "Übung 1: RDF-Graph in Graph Studio erstellen",
+          "filename": "../../rdf-graph-user-and-graph-studio/create-and-validate-an-rdf-graph-user_de.md"
+        },
+        {
+          "title": "Übung 2: RDF-Diagramm abfragen und visualisieren",
+          "filename": "../../query-and-visualize/query-and-visualize-the-rdf-graph_de.md"
+        },
+        {
+            "title": "Umgebung zerstören",
+            "description": "Im Setup erstellte zerstörte Umgebung ",
+            "filename": "../../destroy-environment/destroy-environment_de.md"
+        },
+        {
+          "title": "Brauchen Sie Hilfe?",
+          "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+          "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_de.md"
+        }
+
+    ]
+}
