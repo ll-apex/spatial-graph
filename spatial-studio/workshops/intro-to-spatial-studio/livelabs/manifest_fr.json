@@ -1,0 +1,45 @@
+{
+    "workshoptitle": "Présentation d'Oracle Spatial Studio",
+      "include": {"starter-file.sql":"../../data-load/files/starter-file.sql",
+      "sample.json":"../../data-load/files/sample.json",
+      "step2_fr.md":"../../data-load/files/step2_fr.md"},
+      "support": "https://community.oracle.com/tech/developers/categories/autonomous-database-shared",
+      "help": "livelabs-help-db_us@oracle.com",
+    "tutorials": [
+      {
+        "title": "Présentation",
+        "filename": "../introduction/introduction_fr.md",
+        "type": "reservation"
+      },  
+      {
+        "title": "Introduction",
+        "description": "Connexion à Oracle Cloud",
+        "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs2_fr.md"
+    }, 
+   {
+      "title": "Atelier 1 : Accéder à Spatial Studio",
+      "filename": "../../../env-res/env-res_fr.md"
+  },
+  {
+      "title": "Exercice 2 : Charger des données spatiales",
+      "filename": "../../../load-spatial-data/load-spatial-data_fr.md"
+  },
+  {
+    "title": "Exercice 3 : Créer un projet",
+    "filename": "../../../create-project/create-project_fr.md"
+},
+{
+  "title": "Exercice 4 : Configurer la carte",
+  "filename": "../../../apply-map-styling/apply-map-styling_fr.md"
+},
+{
+  "title": "Exercice 5 : Effectuer des analyses spatiales",
+  "filename": "../../../spatial-analysis-intro/spatial-analysis-intro_fr.md"
+},
+{
+    "title": "Besoin d'aide ?",
+    "description": "Solutions aux problèmes courants et instructions pour recevoir de l'aide en direct",
+    "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_fr.md"
+}
+    ]
+}
