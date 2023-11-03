@@ -1,0 +1,42 @@
+{
+    "workshoptitle": "Graph Studio: Kreisförmige Zahlungsketten mit Diagrammabfragen in Autonomous Database suchen",
+    "include": {
+        "iam-compartment-create-body_de.md":"https://oracle-livelabs.github.io/common/building-blocks/tasks/iam/compartment-create-body_de.md"
+       },
+    "variables": ["/common/building-blocks/variables/variables.json"],
+    "help": "livelabs-help-sg_us@oracle.com",
+	"tutorials": [
+    {
+        "title": "Einführung",
+        "description": "Überblick über diesen Workshop.",
+        "filename": "../../introduction/introduction_de.md"
+    },
+    {
+        "title": "Erste Schritte",
+        "description": "Voraussetzungen für diesen Workshop",
+        "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_de.md"
+    },
+    {
+        "title": "Übung 1: Einrichten",
+        "description": "Freetier",
+        "filename": "../../setup/setup_de.md"
+    },
+    {
+        "title": "Übung 2: Diagramm erstellen",
+        "filename": "../../create-graph/create-graph-me_de.md"
+    },
+    {
+        "title": "Übung 3: Diagramm abfragen und visualisieren",
+        "filename": "../../query-graph/query-graph_de.md"
+    },
+    {
+        "title": "Übung 4: Bereinigung: Graph Studio und ADB beenden",
+        "filename": "../../destroy-environment/destroy-environment_de.md"
+    },
+    {
+        "title": "Brauchen Sie Hilfe?",
+        "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+        "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_de.md"
+    }
+      ]
+  }
