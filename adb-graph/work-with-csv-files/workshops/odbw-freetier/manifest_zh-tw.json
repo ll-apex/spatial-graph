@@ -1,0 +1,46 @@
+{
+    "workshoptitle": "在 Oracle Autonomous Database 上開始使用 Graph Analytics",
+      "help": "livelabs-help-db_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "簡介",
+            "description": "關於本工作坊",
+            "type": "odbw",
+            "filename": "../../introduction/introduction_zh-TW.md"
+        },
+        {
+            "title": "開始使用",
+            "description": "此研習的先修課程。",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_zh-TW.md"
+        },
+        {
+            "title": "實驗室 1：佈建 ADB 執行處理",
+            "description": "佈建 Autonomous Database 執行處理",
+            "type": "freetier",
+            "filename": "https://oracle-livelabs.github.io/adb/shared/adb-provision/adb-provision-conditional_zh-TW.md"
+        },
+        {
+            "title": "實驗室 2：建立啟用圖表的資料庫使用者",
+            "description": "建立具備必要角色和權限的資料庫使用者",
+            "filename": "../../../create-user/create-user_zh-TW.md"
+        },                
+        {
+            "title": "實驗室 3：將 CSV 檔案載入 Autonomous Database",
+            "description": "使用資料庫動作資料載入從 CSV 檔案載入資料",
+            "filename": "../../load-csv-files/load-csv-files_zh-TW.md"
+        },
+        {
+            "title": "實驗室 4：建立圖表",
+            "filename": "../../create-graph/create-graph_zh-TW.md"
+        },
+        {
+            "title": "實驗室 5：查詢和視覺化圖表",
+            "filename": "../../query-graph/query-graph_zh-TW.md"
+        },
+        {
+            "title": "需要協助嗎？",
+            "description": "接收即時說明常見問題的解決方案和指示",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_zh-TW.md"
+        }
+      ]
+  }
