@@ -1,0 +1,52 @@
+{
+  "workshoptitle": "Como trabalhar com dados espaciais no Oracle Autonomous Database (ADB)",
+  "help": "livelabs-help-db_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Introdução ao Oracle Spatial",
+      "type":"adb",
+      "description":"Introdução ao gerenciamento e à análise de dados espaciais no Oracle Autonomous Database",
+      "filename": "../introduction/introduction_pt-BR.md"
+    },
+    {
+      "title": "Introdução",
+      "description": "Login no Oracle Cloud",
+      "filename": "https://raw.githubusercontent.com/oracle-livelabs/common/main/labs/cloud-login/cloud-login-livelabs2_pt-BR.md"
+    },
+    {
+      "title": "Laboratório 1: Provisionar o Autonomous Database",
+      "description": "Provisionar uma nova instância do Autonomous Data Warehouse (ADW)",
+      "filename": "https://raw.githubusercontent.com/oracle-livelabs/adb/main/shared/adb-provision/adb-provision_pt-BR.md"
+    },
+    {
+      "title": "Laboratório 2: Conecte-se ao ADB com a Planilha SQL",
+      "description": " Planilha SQL",
+      "filename": "https://raw.githubusercontent.com/oracle-livelabs/adb/main/shared/adb-sqldevweb/adb-sqldevweb_pt-BR.md"
+    },
+    {
+      "title": "Laboratório 3: Preparar dados espaciais",
+      "description": "Criar e configurar dados espaciais",
+      "filename": "../../../create-spatial-data-adb/create-spatial-data-adb_pt-BR.md"
+    },
+    {
+      "title": "Laboratório 4: Executar consultas espaciais",
+      "description":"Executar análise espacial",
+      "filename": "../../../run-spatial-queries-adb/run-spatial-queries-adb_pt-BR.md"
+    },
+    {
+      "title": "Laboratório 5 (Opcional):  retorno GeoJSON",
+      "description":"Retornar GeoJSON",
+      "filename": "../../../return-geojson/return-geojson_pt-BR.md"
+    },
+    {
+      "title": "Laboratório 6 (Opcional): Limpeza - Redefinir ADB para o estado pré-oficina",
+      "description":"Limpeza",
+      "filename": "../../../cleanup/cleanup_pt-BR.md"
+    },
+    {
+        "title": "Precisa de Ajuda?",
+        "description": "Soluções para Problemas Comuns e Instruções para Receber Ajuda ao Vivo",
+        "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_pt-BR.md"
+    }
+  ]
+}
