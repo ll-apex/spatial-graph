@@ -1,0 +1,42 @@
+{
+    "workshoptitle": "Verwenden Sie Diagrammanalysen und Visualisierungen, um potenziell betrügerische Geldtransfers zu erkennen",
+    "include": {
+    "iam-compartment-create-body_de.md":"/common/building-blocks/tasks/iam/compartment-create-body_de.md"
+    },
+    "variables": ["/common/building-blocks/variables/variables.json"],
+    "help": "livelabs-help-db_us@oracle.com",
+	"tutorials": [
+    {
+        "title": "Einführung",
+        "description": "Überblick über diesen Workshop.",
+        "filename": "https://oracle-livelabs.github.io/spatial-graph/adb-graph/work-with-csv-files/introduction/introduction_de.md"
+    },
+    {
+        "title": "Erste Schritte",
+        "description": "Voraussetzungen für diesen Workshop",
+        "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_de.md"
+    },
+    {
+        "title": "Übung 1: Einrichten",
+        "description": "Setup durch Ausführen von Stack.",
+        "filename": "https://oracle-livelabs.github.io/spatial-graph/adb-graph/work-with-csv-files/setup/setup_de.md"
+    },
+    {
+        "title": "Übung 2: Diagramm erstellen",
+        "filename": "https://oracle-livelabs.github.io/spatial-graph/adb-graph/work-with-csv-files/create-graph/create-graph-me_de.md"
+    },
+    {
+        "title": "Übung 3: Diagramm abfragen und visualisieren",
+        "filename": "https://oracle-livelabs.github.io/spatial-graph/adb-graph/work-with-csv-files/query-graph-update/graph-query-update_de.md"
+    },
+    {
+        "title": "Übung 4: Bereinigung: Graph Studio und ADB beenden",
+        "filename": "https://oracle-livelabs.github.io/spatial-graph/adb-graph/work-with-csv-files/destroy-environment/destroy-environment_de.md"
+    },
+    {
+        "title": "Brauchen Sie Hilfe?",
+        "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+        "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_de.md"
+    }
+      ]
+  }
