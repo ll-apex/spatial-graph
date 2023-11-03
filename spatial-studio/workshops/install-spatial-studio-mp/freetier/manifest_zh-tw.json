@@ -1,0 +1,37 @@
+{
+    "workshoptitle": "從 Cloud Marketplace 安裝 Oracle Spatial Studio",
+    "help": "livelabs-help-db_us@oracle.com",
+    "tutorials": [
+      {
+        "title": "簡介",
+        "filename": "../introduction/introduction_zh-TW.md"
+      },
+      {
+        "title": "開始使用",
+        "description": "登入 Oracle Cloud",
+        "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_zh-TW.md"
+      },
+      {
+        "title": "實驗室 1：佈建 Autonomous Database",
+        "filename": "https://oracle-livelabs.github.io/adb/shared/adb-provision/adb-provision_zh-TW.md"
+      },
+      {
+        "title": "實驗室 2：使用 SQL Developer Web 連線至 ADB",
+        "description": "SQL Developer Web",
+        "filename": "https://oracle-livelabs.github.io/adb/shared/adb-sqldevweb/adb-sqldevweb_zh-TW.md"
+      },
+      {
+        "title": "實驗室 3:Spatial Studio 儲存區域的資料庫使用者",
+        "filename": "../../../repo-schema/repo-schema_zh-TW.md"
+      },    
+      {
+        "title": "Lab 4：安裝空間工作室",
+        "filename": "../../../env-mp/env-mp_zh-TW.md"
+      },
+      {
+        "title": "需要協助嗎？",
+        "description": "接收即時說明常見問題的解決方案和指示",
+        "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_zh-TW.md"
+      }
+  ]
+}
