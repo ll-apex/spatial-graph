@@ -1,0 +1,56 @@
+{
+    "workshoptitle": "Oracle SpatialとPythonで疑わしい財務取引を特定",
+      "help": "livelabs-help-db_us@oracle.com",
+      "tutorials": [
+        {
+          "title": "概要",
+          "description":"概要",
+          "filename": "../introduction/introduction_ja.md"
+        },
+        {
+          "title": "開始",
+          "description": "Oracle Cloudへのログイン",
+          "filename": "https://raw.githubusercontent.com/oracle-livelabs/common/main/labs/cloud-login/cloud-login-livelabs2_ja.md"
+        },
+        {
+          "title": "演習1: JupyterLabへのアクセス",
+          "description": "...",
+          "filename": "../../../access-jupyterlab/access-jupyterlab_ja.md"
+        },
+        {
+          "title": "演習2: Autonomous Databaseの作成",
+          "description": "...",
+          "filename": "../../../create-adb/create-adb_ja.md"
+        },
+        {
+          "title": "演習3: PythonからのAutonomous Databaseへの接続",
+          "description": "...",
+          "filename": "../../../connect-to-adb/connect-to-adb_ja.md"
+        }, 
+        {
+          "title": "演習4: データの準備",
+          "description": "...",
+          "filename": "../../../prepare-data/prepare-data_ja.md"
+        },   
+        {
+          "title": "演習5: データの確認",
+          "description": "...",
+          "filename": "../../../explore-data/explore-data_ja.md"
+        },  
+        {
+          "title": "演習6: 疑わしいトランザクションの検出",
+          "description": "...",
+          "filename": "../../../detect-anomalies/detect-anomalies_ja.md"
+        },  
+        {
+          "title": "演習7: クリーン・アップ",
+          "description": "...",
+          "filename": "../../../cleanup/cleanup_ja.md"
+        },
+        {
+          "title": "サポートが必要ですか。",
+          "description": "ライブヘルプを受信するための一般的な問題と方向への解決策",
+          "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_ja.md"
+        }
+    ]
+}
