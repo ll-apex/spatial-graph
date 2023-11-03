@@ -1,0 +1,61 @@
+{
+    "workshoptitle":"Oracle Databaseによるプロパティ・グラフの分析、クエリ、視覚化",
+    "help": "livelabs-help-sg_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "概要",
+            "description": "概要",
+            "filename":"../../intro/intro_ja.md"
+        },
+        {
+            "title": "開始",
+            "description": "Free Tierアカウントへの登録",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_ja.md"
+        },
+        {
+            "title": "演習1: SSHキーの作成",
+            "description":"SSHキーの作成",
+            "filename":"https://oracle-livelabs.github.io/common/labs/generate-ssh-key/generate-ssh-keys_ja.md"
+        },
+        {
+            "title": "演習2: Autonomous Databaseの作成",
+            "description":"Always Free自律型データベース・インスタンスの設定",
+            "filename":"../../provision-free-tier-adb/provision-free-tier-adb_ja.md"
+        },
+        {
+            "title": "演習3: グラフ・サーバーの作成",
+            "description":"グラフ・サーバーおよびクライアント・マーケットプレイス・イメージのデプロイ",
+            "filename":"../../deploy-image/deploy-image_ja.md"
+        },
+        {
+            "title": "演習4: グラフ・ユーザーの作成および有効化",
+            "description":"データベース操作を使用したグラフ・ユーザーの作成および有効化",
+            "filename":"../../create-graph-user/create-graph-user_ja.md"
+        },
+        {
+            "title": "演習5: 表の作成および移入",
+            "description":"Customer 360データセットを作成して表に移入します",
+            "filename":"../../create-and-populate-tables/create-and-populate-tables_ja.md"
+        },
+        {
+            "title": "演習6: グラフの作成",
+            "description":"グラフを作成します",
+            "filename":"../../create-graph/create-graph_ja.md"
+        },
+        {
+            "title": "演習7: グラフの問合せおよび分析",
+            "description":"グラフの問合せおよび分析",
+            "filename":"../../query-and-analyze-graphs/query-and-analyze-graphs_ja.md"
+        },
+        {
+            "title": "演習8: グラフの視覚化",
+            "description":"グラフのビジュアル化",
+            "filename":"../../visualize-graphs/visualize-graphs_ja.md"
+        },
+        {
+            "title": "サポートが必要ですか。",
+            "description": "ライブヘルプを受信するための一般的な問題と方向への解決策",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ja.md"
+        }
+    ]
+}
