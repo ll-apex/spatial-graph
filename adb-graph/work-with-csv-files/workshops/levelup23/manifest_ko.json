@@ -1,0 +1,42 @@
+{
+    "workshoptitle": "그래프 분석 및 시각화를 사용하여 사기성 자금 이체 감지",
+    "include": {
+    "iam-compartment-create-body_ko.md":"/common/building-blocks/tasks/iam/compartment-create-body_ko.md"
+    },
+    "variables": ["/common/building-blocks/variables/variables.json"],
+    "help": "livelabs-help-db_us@oracle.com",
+	"tutorials": [
+    {
+        "title": "소개",
+        "description": "이 워크샵의 개요입니다.",
+        "filename": "https://oracle-livelabs.github.io/spatial-graph/adb-graph/work-with-csv-files/introduction/introduction_ko.md"
+    },
+    {
+        "title": "시작하기",
+        "description": "이 워크샵의 전제 조건",
+        "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_ko.md"
+    },
+    {
+        "title": "실습 1: 설정",
+        "description": "스택을 실행하여 설정합니다.",
+        "filename": "https://oracle-livelabs.github.io/spatial-graph/adb-graph/work-with-csv-files/setup/setup_ko.md"
+    },
+    {
+        "title": "실습 2: 그래프 생성",
+        "filename": "https://oracle-livelabs.github.io/spatial-graph/adb-graph/work-with-csv-files/create-graph/create-graph-me_ko.md"
+    },
+    {
+        "title": "실습 3: 그래프 쿼리 및 시각화",
+        "filename": "https://oracle-livelabs.github.io/spatial-graph/adb-graph/work-with-csv-files/query-graph-update/graph-query-update_ko.md"
+    },
+    {
+        "title": "실습 4: 정리: Graph Studio 및 ADB 종료",
+        "filename": "https://oracle-livelabs.github.io/spatial-graph/adb-graph/work-with-csv-files/destroy-environment/destroy-environment_ko.md"
+    },
+    {
+        "title": "도움이 필요합니까?",
+        "description": "일반적인 문제 해결 및 실시간 도움말 수신 방향",
+        "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ko.md"
+    }
+      ]
+  }
