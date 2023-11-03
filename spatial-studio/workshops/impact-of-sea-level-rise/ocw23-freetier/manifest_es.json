@@ -1,0 +1,52 @@
+{
+    "workshoptitle": "Evalúe el impacto local del aumento del nivel del mar con Oracle Spatial Studio",
+      "support": "https://community.oracle.com/tech/developers/categories/autonomous-database-shared",
+      "help": "livelabs-help-sg_us@oracle.com",
+    "tutorials": [
+      {
+        "title": "Introducción",
+        "filename": "../introduction/introduction_es.md"
+      },  
+      {
+        "title": "Introducción",
+        "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_es.md"
+      },
+   {
+      "title": "Laboratorio 1: Despliegue de Spatial Studio en Oracle Cloud",
+      "filename": "../../../env-mp-ocw/env-mp-ocw_es.md"
+  },
+  {
+      "title": "Laboratorio 2: Carga y preparación de datos",
+      "filename": "../../../slr-load-data/slr-load-data_es.md"
+  },
+  {
+    "title": "Laboratorio 3: Visualización de datos espaciales",
+    "filename": "../../../slr-visualize/slr-visualize_es.md"
+},
+{
+  "title": "Laboratorio 4: Analizar las relaciones espaciales",
+  "filename": "../../../slr-analyze/slr-analyze_es.md"
+},
+{
+  "title": "Laboratorio 5: Guardar y compartir resultados",
+  "filename": "../../../slr-save-share/slr-save-share_es.md"
+},
+{
+  "title": "Laboratorio 6: Opción de limpieza 1: Restablecer Spatial Studio y ADB al estado previo al taller",
+  "filename": "../../../reset/reset_es.md"
+},   
+{
+  "title": "Laboratorio 7: Opción de limpieza 2: Terminar Spatial Studio y ADB",
+  "filename": "../../../env-mp-teardown/env-mp-teardown_es.md"
+},
+{
+    "title": "¿Necesita Ayuda?",
+    "description": "Soluciones a problemas comunes e instrucciones para recibir ayuda en directo",
+    "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_es.md"
+},
+{
+  "title": "Oracle CloudWorld 2023: Soporte",
+   "filename": "https://oracle-livelabs.github.io/common/support/ocwsupportlab/ocwsupportlab_es.md"
+}
+   ]
+}
