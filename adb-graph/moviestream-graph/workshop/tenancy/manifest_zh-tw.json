@@ -1,0 +1,45 @@
+{
+    "workshoptitle": "使用圖表分析建議影片",
+    "help": "livelabs-help-db_us@oracle.com",
+    "include": {
+     "iam-compartment-create-body_zh-TW.md":"https://oracle-livelabs.github.io/common/building-blocks/tasks/iam/compartment-create-body_zh-TW.md",
+     "adb-goto-graph-studio_zh-TW.md":"/common/building-blocks/tasks/adb/goto-graph-studio_zh-TW.md",
+     "adb-create-graph_zh-TW.md":"/common/building-blocks/tasks/adb/create-graph_zh-TW.md"
+    },
+    "variables": ["./variables.json"],
+    "tutorials": [
+        {
+            "title": "使用圖表分析建議影片",
+            "description": "「簡介」永遠優先。「簡介」的標題和內容功能表標題相符。",
+            "filename": "../../introduction/introduction_zh-TW.md"
+        },
+        {
+            "title": "開始使用",
+            "description": "LiveLabs (Oracle 擁有的租用戶) 的先決條件。先決條件實驗室的實驗室標題與「內容功能表」標題 (上述標題) 相符。這個實驗室永遠是第一個。",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_zh-TW.md"
+        },      
+        {
+            "title": "實驗室 1：設定",
+            "description": "透過執行 Stack 設定。",
+            "filename": "../../setup/setup_zh-TW.md"
+        },
+        {
+            "title": "Lab 2：在 Graph Studio 中建立屬性圖表",
+            "filename": "../../create-graph/create-graph-tenancy_zh-TW.md"
+        },
+        {
+            "title": "實驗室 3：查詢和視覺化圖表",
+            "filename": "../../query-and-visualize/query-and-visualize_zh-TW.md"
+        },
+        {
+            "title": "實驗室 4：清理",
+            "description": "設定中建立的已毀棄環境 ",
+            "filename": "../../destroy-environment/destroy-environment_zh-TW.md"
+        },
+        {
+            "title": "需要協助嗎？",
+            "description": "接收即時說明常見問題的解決方案和指示",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_zh-TW.md"
+        }
+    ]
+}
