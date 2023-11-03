@@ -1,0 +1,48 @@
+{
+  "workshoptitle": "워크샵 제목은 매니페스트에 정의되어 있습니다.",
+  "help": "livelabs-help-**enterarea**_us@oracle.com",
+  "variables": ["../../variables/variables.json",
+    "../../variables/variables-in-another-file.json"],
+  "tutorials": [
+    {
+      "title": "소개",
+      "description": "소개는 항상 LiveLabs의 두번째입니다. 제목 및 내용 메뉴 제목이 소개와 일치합니다.",
+      "filename": "../../introduction/introduction_ko.md"
+    },
+    {
+      "title": "noVNC Remote Desktop 시작하기",
+      "description": "noVNC Remote Desktop 사용",
+      "filename": "https://oracle-livelabs.github.io/common/labs/remote-desktop/using-novnc-remote-desktop_ko.md"
+    },
+    {
+      "title": "실습 1: Instance 프로비저닝",
+      "description": "도입 이후의 실습은 실습 1부터 시작하여 번호가 매겨집니다.",
+      "filename": "../../provision/provision_ko.md"
+    },
+    {
+      "title": "실습 2: 환경 설정",
+      "filename": "../../setup/setup_ko.md"
+    },
+    {
+      "title": "실습 3: 인스턴스로 데이터 로드",
+      "filename": "../../data-load/data-load_ko.md"
+    },
+    {
+      "title": "실습 4: 데이터 질의",
+      "filename": "../../query/query_ko.md"
+    },
+    {
+        "title": "실습 5: LiveLabs의 테이블",
+        "filename": "../../tables/tables_ko.md"
+    },
+    {
+            "title": "실습 6: LiveLabs의 변수",
+            "filename": "../../variables/variables_ko.md"
+    },
+    {
+      "title": "도움이 필요합니까?",
+      "description": "일반적인 문제 해결 및 실시간 도움말 수신 방향",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_ko.md"
+    }
+  ]
+}
