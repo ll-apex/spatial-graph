@@ -1,0 +1,42 @@
+{
+    "workshoptitle": "Utiliser l'analyse graphique et la visualisation pour détecter les transferts d'argent potentiellement frauduleux",
+    "include": {
+    "iam-compartment-create-body_fr.md":"/common/building-blocks/tasks/iam/compartment-create-body_fr.md"
+    },
+    "variables": ["/common/building-blocks/variables/variables.json"],
+    "help": "livelabs-help-db_us@oracle.com",
+	"tutorials": [
+    {
+        "title": "Présentation",
+        "description": "Présentation de cet atelier.",
+        "filename": "https://oracle-livelabs.github.io/spatial-graph/adb-graph/work-with-csv-files/introduction/introduction_fr.md"
+    },
+    {
+        "title": "Introduction",
+        "description": "Prérequis pour cet atelier",
+        "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_fr.md"
+    },
+    {
+        "title": "Exercice 1 : Configuration",
+        "description": "Configurer en exécutant Stack.",
+        "filename": "https://oracle-livelabs.github.io/spatial-graph/adb-graph/work-with-csv-files/setup/setup_fr.md"
+    },
+    {
+        "title": "Exercice 2 : Créer un graphique",
+        "filename": "https://oracle-livelabs.github.io/spatial-graph/adb-graph/work-with-csv-files/create-graph/create-graph-me_fr.md"
+    },
+    {
+        "title": "Exercice 3 : Interroger et visualiser le graphique",
+        "filename": "https://oracle-livelabs.github.io/spatial-graph/adb-graph/work-with-csv-files/query-graph-update/graph-query-update_fr.md"
+    },
+    {
+        "title": "Exercice 4 : Nettoyage : Mettre fin à Graph Studio et ADB",
+        "filename": "https://oracle-livelabs.github.io/spatial-graph/adb-graph/work-with-csv-files/destroy-environment/destroy-environment_fr.md"
+    },
+    {
+        "title": "Besoin d'aide ?",
+        "description": "Solutions aux problèmes courants et instructions pour recevoir de l'aide en direct",
+        "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_fr.md"
+    }
+      ]
+  }
