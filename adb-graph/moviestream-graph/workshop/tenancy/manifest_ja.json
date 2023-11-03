@@ -1,0 +1,45 @@
+{
+    "workshoptitle": "グラフ分析を使用したムービーの推奨",
+    "help": "livelabs-help-db_us@oracle.com",
+    "include": {
+     "iam-compartment-create-body_ja.md":"https://oracle-livelabs.github.io/common/building-blocks/tasks/iam/compartment-create-body_ja.md",
+     "adb-goto-graph-studio_ja.md":"/common/building-blocks/tasks/adb/goto-graph-studio_ja.md",
+     "adb-create-graph_ja.md":"/common/building-blocks/tasks/adb/create-graph_ja.md"
+    },
+    "variables": ["./variables.json"],
+    "tutorials": [
+        {
+            "title": "グラフ分析を使用したムービーの推奨",
+            "description": "導入は常に最初です。概要のタイトルとコンテンツ・メニューのタイトルが一致します。",
+            "filename": "../../introduction/introduction_ja.md"
+        },
+        {
+            "title": "開始",
+            "description": "LiveLabs (Oracle所有テナンシ)の前提条件。ラボのタイトルとコンテンツ・メニューのタイトル(上のタイトル)は、前提条件ラボと一致します。この研究室はいつも先です。",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_ja.md"
+        },      
+        {
+            "title": "演習1: 設定",
+            "description": "Stackを実行して設定します。",
+            "filename": "../../setup/setup_ja.md"
+        },
+        {
+            "title": "演習2: Graph Studioでのプロパティ・グラフの作成",
+            "filename": "../../create-graph/create-graph-tenancy_ja.md"
+        },
+        {
+            "title": "演習3: グラフの問合せおよびビジュアル化",
+            "filename": "../../query-and-visualize/query-and-visualize_ja.md"
+        },
+        {
+            "title": "演習4: クリーン・アップ",
+            "description": "設定で作成された破棄された環境 ",
+            "filename": "../../destroy-environment/destroy-environment_ja.md"
+        },
+        {
+            "title": "サポートが必要ですか。",
+            "description": "ライブヘルプを受信するための一般的な問題と方向への解決策",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ja.md"
+        }
+    ]
+}
