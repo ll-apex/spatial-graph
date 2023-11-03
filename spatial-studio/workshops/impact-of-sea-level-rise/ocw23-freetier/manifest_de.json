@@ -1,0 +1,52 @@
+{
+    "workshoptitle": "Bewerten Sie die lokalen Auswirkungen des Meeresspiegelanstiegs mit Oracle Spatial Studio",
+      "support": "https://community.oracle.com/tech/developers/categories/autonomous-database-shared",
+      "help": "livelabs-help-sg_us@oracle.com",
+    "tutorials": [
+      {
+        "title": "Einführung",
+        "filename": "../introduction/introduction_de.md"
+      },  
+      {
+        "title": "Erste Schritte",
+        "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_de.md"
+      },
+   {
+      "title": "Übung 1: Spatial Studio in Oracle Cloud bereitstellen",
+      "filename": "../../../env-mp-ocw/env-mp-ocw_de.md"
+  },
+  {
+      "title": "Übung 2: Daten laden und vorbereiten",
+      "filename": "../../../slr-load-data/slr-load-data_de.md"
+  },
+  {
+    "title": "Übung 3: Räumliche Daten visualisieren",
+    "filename": "../../../slr-visualize/slr-visualize_de.md"
+},
+{
+  "title": "Übung 4: räumliche Beziehungen analysieren",
+  "filename": "../../../slr-analyze/slr-analyze_de.md"
+},
+{
+  "title": "Übung 5: Ergebnisse speichern und teilen",
+  "filename": "../../../slr-save-share/slr-save-share_de.md"
+},
+{
+  "title": "Übung 6: Bereinigungsoption 1: Räumliches Studio und ADB auf Vorworkshopzustand zurücksetzen",
+  "filename": "../../../reset/reset_de.md"
+},   
+{
+  "title": "Übung 7: Bereinigungsoption 2: Räumliches Studio und ADB beenden",
+  "filename": "../../../env-mp-teardown/env-mp-teardown_de.md"
+},
+{
+    "title": "Brauchen Sie Hilfe?",
+    "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+    "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_de.md"
+},
+{
+  "title": "Oracle CloudWorld 2023 - Support",
+   "filename": "https://oracle-livelabs.github.io/common/support/ocwsupportlab/ocwsupportlab_de.md"
+}
+   ]
+}
