@@ -1,0 +1,45 @@
+{
+    "workshoptitle": "Graph Studio: Kreisförmige Zahlungsketten mit Diagrammabfragen in Autonomous Database suchen",
+      "help": "livelabs-help-db_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "Einführung",
+            "description": "Über diesen Workshop",
+            "filename": "../../introduction/introduction_de.md"
+        },
+        {
+            "title": "Erste Schritte",
+            "description": "Voraussetzungen für diesen Workshop.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/event-register-free-tier-account_de.md"
+        },
+        {
+            "title": "Übung 1: ADB-Instanz bereitstellen",
+            "description": "Autonomous Database-Instanz bereitstellen",
+            "type": "freetier",
+            "filename": "https://oracle-livelabs.github.io/adb/shared/adb-provision/adb-provision-conditional_de.md"
+        },
+        {
+            "title": "Übung 2: Erstellen eines grafikfähigen Datenbankbenutzers",
+            "description": "Datenbankbenutzer mit den erforderlichen Rollen und Berechtigungen erstellen",
+            "filename": "../../../create-user/create-user_de.md"
+        },                
+        {
+            "title": "Übung 3: CSV-Dateien in Autonomous Database laden",
+            "description": "Daten mit dem Dataload von Database Actions aus CSV-Dateien laden",
+            "filename": "../../load-csv-files/load-csv-files_de.md"
+        },
+        {
+            "title": "Übung 4: Diagramm erstellen",
+            "filename": "../../create-graph/create-graph_de.md"
+        },
+        {
+            "title": "Übung 5: Diagramm abfragen und visualisieren",
+            "filename": "../../query-graph/query-graph_de.md"
+        },
+        {
+            "title": "Brauchen Sie Hilfe?",
+            "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_de.md"
+        }
+      ]
+  }
