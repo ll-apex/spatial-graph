@@ -1,0 +1,45 @@
+{
+    "workshoptitle": "Mit Graph Analytics Filme empfehlen",
+    "help": "livelabs-help-db_us@oracle.com",
+    "include": {
+     "iam-compartment-create-body_de.md":"https://oracle-livelabs.github.io/common/building-blocks/tasks/iam/compartment-create-body_de.md",
+     "adb-goto-graph-studio_de.md":"/common/building-blocks/tasks/adb/goto-graph-studio_de.md",
+     "adb-create-graph_de.md":"/common/building-blocks/tasks/adb/create-graph_de.md"
+    },
+    "variables": ["./variables.json"],
+    "tutorials": [
+        {
+            "title": "Mit Graph Analytics Filme empfehlen",
+            "description": "Die Einführung steht immer an erster Stelle. Titel und Inhalt des Menüs stimmen für die Einführung überein.",
+            "filename": "../../introduction/introduction_de.md"
+        },
+        {
+            "title": "Erste Schritte",
+            "description": "Voraussetzungen für LiveLabs (Mandanten im Besitz von Oracle). Der Titel der Übung und der Titel des Inhaltsmenüs (obener Titel) stimmen mit dem Titel der erforderlichen Übung überein. Diese Übung ist immer die erste.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_de.md"
+        },      
+        {
+            "title": "Übung 1: Einrichten",
+            "description": "Setup durch Ausführen von Stack.",
+            "filename": "../../setup/setup_de.md"
+        },
+        {
+            "title": "Übung 2: Eigenschaftsdiagramm in Graph Studio erstellen",
+            "filename": "../../create-graph/create-graph-tenancy_de.md"
+        },
+        {
+            "title": "Übung 3: Diagramm abfragen und visualisieren",
+            "filename": "../../query-and-visualize/query-and-visualize_de.md"
+        },
+        {
+            "title": "Übung 4: Bereinigung",
+            "description": "Im Setup erstellte zerstörte Umgebung ",
+            "filename": "../../destroy-environment/destroy-environment_de.md"
+        },
+        {
+            "title": "Brauchen Sie Hilfe?",
+            "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_de.md"
+        }
+    ]
+}
