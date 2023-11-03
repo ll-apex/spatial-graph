@@ -1,0 +1,61 @@
+{
+    "workshoptitle":"Analyser, interroger et visualiser les graphiques de propriétés avec Oracle Database",
+    "help": "livelabs-help-sg_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "Présentation",
+            "description": "Présentation",
+            "filename":"../../intro/intro_fr.md"
+        },
+        {
+            "title": "Introduction",
+            "description": "S'inscrire à un compte Free Tier",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_fr.md"
+        },
+        {
+            "title": "Exercice 1 : Créer des clés SSH",
+            "description":"Créer des clés SSH",
+            "filename":"https://oracle-livelabs.github.io/common/labs/generate-ssh-key/generate-ssh-keys_fr.md"
+        },
+        {
+            "title": "Exercice 2 : création d'une instance Autonomous Database",
+            "description":"Configurer une instance de base de données autonome Toujours gratuit",
+            "filename":"../../provision-free-tier-adb/provision-free-tier-adb_fr.md"
+        },
+        {
+            "title": "Exercice 3 : Créer un serveur de graphe",
+            "description":"Déployer l'image Graph Server & Client Marketplace",
+            "filename":"../../deploy-image/deploy-image_fr.md"
+        },
+        {
+            "title": "Exercice 4 : Créer et activer un utilisateur de graphique",
+            "description":"Créer et activer un utilisateur de graphique à l'aide de Database Actions",
+            "filename":"../../create-graph-user/create-graph-user_fr.md"
+        },
+        {
+            "title": "Exercice 5 : Créer et alimenter des tables",
+            "description":"Créer et alimenter des tables avec le jeu de données Customer 360",
+            "filename":"../../create-and-populate-tables/create-and-populate-tables_fr.md"
+        },
+        {
+            "title": "Exercice 6 : Créer un graphique",
+            "description":"Créer un graphe",
+            "filename":"../../create-graph/create-graph_fr.md"
+        },
+        {
+            "title": "Exercice 7 : Interroger et analyser le graphique",
+            "description":"Requête et analyse du graphique",
+            "filename":"../../query-and-analyze-graphs/query-and-analyze-graphs_fr.md"
+        },
+        {
+            "title": "Exercice 8 : Visualiser le graphique",
+            "description":"Visualiser le graphique",
+            "filename":"../../visualize-graphs/visualize-graphs_fr.md"
+        },
+        {
+            "title": "Besoin d'aide ?",
+            "description": "Solutions aux problèmes courants et instructions pour recevoir de l'aide en direct",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_fr.md"
+        }
+    ]
+}
