@@ -1,0 +1,55 @@
+{
+    "workshoptitle": "グラフを簡単に: データで新しいインサイトを見つける",
+    "help": "livelabs-help-db_us@oracle.com",
+    "include": {
+     "iam-compartment-create-body_ja.md":"https://oracle-livelabs.github.io/common/building-blocks/tasks/iam/compartment-create-body_ja.md"
+    },
+    "variables": ["./variables.json"],
+    "tutorials": [
+        {
+            "title": "Graph Studioの操作",
+            "description": "導入は常に最初です。概要のタイトルとコンテンツ・メニューのタイトルが一致します。",
+            "filename": "https://oracle-livelabs.github.io/spatial-graph/adb-graph/graph-made-easy/introduction-property-graph/introduction-property-graph_ja.md"
+        },
+        {
+            "title": "開始",
+            "description": "LiveLabs (Oracle所有テナンシ)の前提条件。ラボのタイトルとコンテンツ・メニューのタイトル(上のタイトル)は、前提条件ラボと一致します。この研究室はいつも先です。",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_ja.md"
+        },
+        {
+            "title": "演習1: 設定",
+            "description": "スタックの実行による設定",
+            "filename": "../../setup/setup_ja.md"
+        },
+        {
+            "title": "演習2: Graph Studioでのプロパティ・グラフの作成",
+            "filename": "../../create-graph/create-graph-me_ja.md"
+        }, 
+        {
+            "title": "演習3: プロパティ・グラフの問合せおよびビジュアル化",
+            "filename": "../../query-graph/query-graph_ja.md"
+        },
+        {
+            "title": "演習4: Graph StudioでのRDFグラフの作成(オプション- パート1)",
+            "filename": "https://oracle-livelabs.github.io/spatial-graph/adb-graph/graph-made-easy/rdf-graph-user-and-graph-studio/create-and-validate-an-rdf-graph-user_ja.md"
+        },
+        {
+            "title": "演習5: RDFグラフの問合せおよびビジュアル化(オプション- パート2)",
+            "filename": "https://oracle-livelabs.github.io/spatial-graph/adb-graph/graph-made-easy/rdf-graph-user-and-graph-studio/create-and-validate-an-rdf-graph-user_ja.md"
+        },
+        {
+            "title": "演習5: RDFグラフの問合せおよびビジュアル化(オプション- パート2)",
+            "filename": "https://oracle-livelabs.github.io/spatial-graph/adb-graph/graph-made-easy/query-and-visualize/query-and-visualize-the-rdf-graph_ja.md"
+
+        },
+        {
+            "title": "クリーンアップ",
+            "description": "設定で作成された破棄された環境 ",
+            "filename": "../../destroy-environment/destroy-environment_ja.md"
+        },
+        {
+        "title": "Oracle CloudWorld 2023 - ヘルプの入手",
+        "filename": "https://oracle-livelabs.github.io/common/support/ocwsupportlab/ocwsupportlab_ja.md"
+        }
+    ]
+}
