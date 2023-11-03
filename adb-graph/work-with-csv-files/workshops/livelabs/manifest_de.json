@@ -1,0 +1,29 @@
+{
+  "workshoptitle": "Graph Studio: Kreisförmige Zahlungsketten mit Diagrammabfragen in Autonomous Database suchen",
+    "help": "livelabs-help-sg_us@oracle.com",
+	"tutorials": [
+    {
+        "title": "Einführung",
+        "description": "Über diesen Workshop",
+        "filename": "../../introduction/introduction_de.md"
+    },
+    {
+        "title": "Erste Schritte",
+        "description": "Voraussetzungen für diesen Workshop",
+        "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs_de.md"        
+    },
+    {
+        "title": "Übung 1: Eigenschaftsdiagramm in Graph Studio erstellen",
+        "filename": "../../create-graph/create-graph_de.md"
+    },
+    {
+        "title": "Übung 2: Eigenschaftsdiagramm abfragen und visualisieren",
+        "filename": "../../query-graph/query-graph_de.md"
+    },
+    {
+        "title": "Brauchen Sie Hilfe?",
+        "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+        "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_de.md"
+    }
+    ]
+}
