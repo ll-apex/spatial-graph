@@ -1,0 +1,60 @@
+{
+    "workshoptitle": "Comment utiliser les données spatiales dans Oracle Autonomous Database (ADB)",
+    "help": "livelabs-help-db_us@oracle.com",
+	  "tutorials": [
+      {
+        "title": "Présentation d'Oracle Spatial",
+        "type":"adb",
+        "description":"Introduction à la gestion et à l'analyse des données spatiales dans Oracle Autonomous Database",
+        "filename": "../introduction/introduction_fr.md"
+      },
+      {
+        "title": "Introduction",
+        "description": "Connexion à Oracle Cloud",
+        "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_fr.md"
+      },
+      {
+        "title": "Atelier 1 : provisionnement d'Autonomous Database",
+        "description": "Provisionner une nouvelle instance Autonomous Data Warehouse (ADW)",
+        "filename": "https://raw.githubusercontent.com/oracle-livelabs/adb/main/shared/adb-provision/adb-provision_fr.md"
+      },
+      {
+        "title": "Exercice 2 : Se connecter à la base de données autonome avec SQL Worksheet",
+        "description": " Feuille de calcul SQL",
+        "filename": "https://raw.githubusercontent.com/oracle-livelabs/adb/main/shared/adb-sqldevweb/adb-sqldevweb_fr.md"
+      },
+      {
+        "title": "Exercice 3 : Préparer les données spatiales",
+        "description": "Créer et configurer des données spatiales",
+        "filename": "../../../create-spatial-data-adb/create-spatial-data-adb_fr.md"
+      },
+      {
+        "title": "Exercice 4 : Exécuter des requêtes spatiales",
+        "description":"Effectuer des analyses spatiales",
+        "filename": "../../../run-spatial-queries-adb/run-spatial-queries-adb_fr.md"
+      },
+      {
+        "title": "Exercice 5 : Renvoyer GeoJSON",
+        "description":"Renvoyer GeoJSON",
+        "filename": "../../../return-geojson/return-geojson_fr.md"
+      },
+      {
+        "title": "Laboratoire 6 : Option de nettoyage 1 : Réinitialiser ADB à l'état pré-atelier",
+        "description":"Nettoyer",
+        "filename": "../../../cleanup/cleanup_fr.md"
+      },
+      {
+        "title": "Exercice 7 : Option de nettoyage 2 : Mettre fin à l'instance ADB",
+        "description":"Nettoyer",
+        "filename": "https://raw.githubusercontent.com/oracle-livelabs/common/main/labs/terminate-adb/terminate-adb_fr.md"
+      },
+      {
+        "title": "Pour en savoir plus, consultez Oracle CloudWorld 2022",
+        "filename": "../../../ocw2022-learn-more/ocw2022-learn-more_fr.md"
+        },
+        {
+          "title": "Oracle CloudWorld 2022 - Obtenir de l'aide",
+          "filename": "https://oracle-livelabs.github.io/common/support/ocwsupportlab/ocwsupportlab_fr.md"
+          }
+    ]
+}
