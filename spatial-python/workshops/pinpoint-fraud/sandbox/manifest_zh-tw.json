@@ -1,0 +1,56 @@
+{
+    "workshoptitle": "使用 Oracle Spatial 和 Python 找出可疑的財務交易",
+      "help": "livelabs-help-db_us@oracle.com",
+      "tutorials": [
+        {
+          "title": "簡介",
+          "description":"簡介",
+          "filename": "../introduction/introduction_zh-TW.md"
+        },
+        {
+          "title": "開始使用",
+          "description": "登入 Oracle Cloud",
+          "filename": "https://raw.githubusercontent.com/oracle-livelabs/common/main/labs/cloud-login/cloud-login-livelabs2_zh-TW.md"
+        },
+        {
+          "title": "實驗室 1：存取 JupyterLab",
+          "description": "...",
+          "filename": "../../../access-jupyterlab/access-jupyterlab_zh-TW.md"
+        },
+        {
+          "title": "實驗室 2：建立 Autonomous Database",
+          "description": "...",
+          "filename": "../../../create-adb/create-adb_zh-TW.md"
+        },
+        {
+          "title": "實驗室 3：從 Python 連線至 Autonomous Database",
+          "description": "...",
+          "filename": "../../../connect-to-adb/connect-to-adb_zh-TW.md"
+        }, 
+        {
+          "title": "實驗室 4：準備資料",
+          "description": "...",
+          "filename": "../../../prepare-data/prepare-data_zh-TW.md"
+        },   
+        {
+          "title": "Lab 5：探索資料",
+          "description": "...",
+          "filename": "../../../explore-data/explore-data_zh-TW.md"
+        },  
+        {
+          "title": "實驗室 6：偵測可疑交易",
+          "description": "...",
+          "filename": "../../../detect-anomalies/detect-anomalies_zh-TW.md"
+        },  
+        {
+          "title": "實驗室 7：清理",
+          "description": "...",
+          "filename": "../../../cleanup/cleanup_zh-TW.md"
+        },
+        {
+          "title": "需要協助嗎？",
+          "description": "接收即時說明常見問題的解決方案和指示",
+          "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_zh-TW.md"
+        }
+    ]
+}
