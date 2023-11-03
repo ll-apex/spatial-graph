@@ -1,0 +1,53 @@
+{
+    "workshoptitle": "輕鬆使用圖表：尋找資料中的新洞察力",
+    "help": "livelabs-help-db_us@oracle.com",
+    "tutorials": [
+        {
+          "title": "在 Graph Studio 中使用特性圖表",
+          "description": "「簡介」永遠優先。「簡介」的標題和內容功能表標題相符。",
+          "filename": "../../introduction-property-graph/introduction-property-graph_zh-TW.md"
+        },
+        {
+          "title": "開始使用",
+          "description": "LiveLabs (Oracle 擁有的租用戶) 的先決條件。先決條件實驗室的實驗室標題與「內容功能表」標題 (上述標題) 相符。這個實驗室永遠是第一個。",
+          "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_zh-TW.md"
+        },
+        {
+            "title": "設定",
+            "description": "執行堆疊設定",
+            "filename": "../../setup/setup_zh-TW.md"
+        },
+        {
+          "title": "實驗室 1：建立圖表",
+          "filename": "../../create-graph/create-graph_zh-TW.md"
+        },
+        {
+          "title": "實驗室 2：查詢和視覺化圖表",
+          "filename": "../../query-graph/graph-query-update_zh-TW.md"
+        },
+        {
+          "title": "在 Graph Studio 中使用 RDF 圖形",
+          "description": "「簡介」永遠優先。「簡介」的標題和內容功能表標題相符。",
+          "filename": "../../introduction-rdf/introduction-rdf_zh-TW.md"
+        },
+        {
+          "title": "實驗室 1：在 Graph Studio 中建立 RDF 圖形",
+          "filename": "../../rdf-graph-user-and-graph-studio/create-and-validate-an-rdf-graph-user_zh-TW.md"
+        },
+        {
+          "title": "實驗室 2：查詢 RDF 圖表及視覺化",
+          "filename": "../../query-and-visualize/query-and-visualize-the-rdf-graph_zh-TW.md"
+        },
+        {
+            "title": "毀棄環境",
+            "description": "設定中建立的已毀棄環境 ",
+            "filename": "../../destroy-environment/destroy-environment_zh-TW.md"
+        },
+        {
+          "title": "需要協助嗎？",
+          "description": "接收即時說明常見問題的解決方案和指示",
+          "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_zh-TW.md"
+        }
+
+    ]
+}
