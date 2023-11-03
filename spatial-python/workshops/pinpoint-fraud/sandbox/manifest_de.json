@@ -1,0 +1,56 @@
+{
+    "workshoptitle": "Ermitteln Sie verdächtige Finanztransaktionen mit Oracle Spatial und Python",
+      "help": "livelabs-help-db_us@oracle.com",
+      "tutorials": [
+        {
+          "title": "Einführung",
+          "description":"Einführung",
+          "filename": "../introduction/introduction_de.md"
+        },
+        {
+          "title": "Erste Schritte",
+          "description": "Bei Oracle Cloud anmelden",
+          "filename": "https://raw.githubusercontent.com/oracle-livelabs/common/main/labs/cloud-login/cloud-login-livelabs2_de.md"
+        },
+        {
+          "title": "Übung 1: Auf JupyterLab zugreifen",
+          "description": "...",
+          "filename": "../../../access-jupyterlab/access-jupyterlab_de.md"
+        },
+        {
+          "title": "Übung 2: Autonomous Database erstellen",
+          "description": "...",
+          "filename": "../../../create-adb/create-adb_de.md"
+        },
+        {
+          "title": "Übung 3: Verbindung zu Autonomous Database von Python herstellen",
+          "description": "...",
+          "filename": "../../../connect-to-adb/connect-to-adb_de.md"
+        }, 
+        {
+          "title": "Übung 4: Daten vorbereiten",
+          "description": "...",
+          "filename": "../../../prepare-data/prepare-data_de.md"
+        },   
+        {
+          "title": "Übung 5: Daten untersuchen",
+          "description": "...",
+          "filename": "../../../explore-data/explore-data_de.md"
+        },  
+        {
+          "title": "Übung 6: Verdächtige Transaktionen erkennen",
+          "description": "...",
+          "filename": "../../../detect-anomalies/detect-anomalies_de.md"
+        },  
+        {
+          "title": "Übung 7: Bereinigung",
+          "description": "...",
+          "filename": "../../../cleanup/cleanup_de.md"
+        },
+        {
+          "title": "Brauchen Sie Hilfe?",
+          "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+          "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_de.md"
+        }
+    ]
+}
