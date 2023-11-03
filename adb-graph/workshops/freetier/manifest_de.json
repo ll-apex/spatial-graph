@@ -1,0 +1,40 @@
+{
+    "workshoptitle": "Erste Schritte mit Graph Studio",
+    "help": "livelabs-help-db_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "Einführung",
+            "description": "Workshop Einführung und Produktübersicht.",
+            "filename": "../../introduction/introduction_de.md"
+        },
+        {
+            "title": "Erste Schritte",
+            "description": "Voraussetzungen für Kunden, die kostenlose Test- und kostenpflichtige Mandanten sowie Accounts vom Typ \"Immer kostenlos\" verwenden. ",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_de.md"
+        },
+        {
+            "title": "Übung 1: Graphbenutzer erstellen",
+            "description": "Erstellen Sie ein einfaches Diagramm, und erfahren Sie, wie Sie in der Benutzeroberfläche navigieren.",
+            "filename": "../../create-user/create-user_de.md"
+        },
+        {
+            "title": "Lab 2: Hallo Welt",
+            "description": "Erstellen Sie ein einfaches Diagramm, und erfahren Sie, wie Sie in der Benutzeroberfläche navigieren.",
+            "filename": "../../hello-world/hello-world_de.md"
+        },
+        {
+            "title": "Übung 3: Diagramm aus den SH-Tabellen erstellen",
+            "filename": "../../create-graph-from-sh-tables/create-graph-from-sh-tables_de.md"
+        },
+        {
+            "title": "Übung 4: Data Warehouse mit Diagrammalgorithmen analysieren",
+            "filename": "../../run-graph-algorithms-on-data-warehouse/run-graph-algorithms-on-data-warehouse_de.md"
+        },
+        {
+            "title": "Brauchen Sie Hilfe?",
+            "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_de.md"
+        }
+
+    ]
+}
