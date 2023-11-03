@@ -1,0 +1,46 @@
+{
+    "workshoptitle": "Oracle Autonomous Database 上的图形分析入门",
+      "help": "livelabs-help-db_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "简介",
+            "description": "关于本次研讨会",
+            "type": "odbw",
+            "filename": "../../introduction/introduction_zh-CN.md"
+        },
+        {
+            "title": "入门",
+            "description": "此研讨会的先决条件。",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs2_zh-CN.md"
+        },
+        {
+            "title": "练习 1：预配 ADB 实例",
+            "description": "预配 Autonomous Database 实例",
+            "type": "livelabs",
+            "filename": "https://oracle-livelabs.github.io/adb/shared/adb-provision/adb-provision-conditional_zh-CN.md"
+        },
+        {
+            "title": "练习 2：创建支持图形的数据库用户",
+            "description": "创建具有所需角色和权限的数据库用户",
+            "filename": "../../../create-user/create-user_zh-CN.md"
+        },
+        {
+            "title": "练习 3：将 CSV 文件加载到 Autonomous Database 中",
+            "description": "使用 Database Actions 数据加载从 CSV 文件加载数据",
+            "filename": "../../load-csv-files/load-csv-files_zh-CN.md"
+        },
+        {
+            "title": "练习 4：创建图形",
+            "filename": "../../create-graph/create-graph_zh-CN.md"
+        },
+        {
+            "title": "实验 5：查询和可视化图形",
+            "filename": "../../query-graph/query-graph_zh-CN.md"
+        },
+        {
+            "title": "需要帮助？",
+            "description": "接收实时帮助的常见问题和方向的解决方案",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_zh-CN.md"
+        }
+    ]
+}
