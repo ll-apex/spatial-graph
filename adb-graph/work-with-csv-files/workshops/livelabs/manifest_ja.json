@@ -1,0 +1,29 @@
+{
+  "workshoptitle": "Graph Studio: Autonomous Databaseでのグラフ問合せを使用した循環支払チェーンの検索",
+    "help": "livelabs-help-sg_us@oracle.com",
+	"tutorials": [
+    {
+        "title": "概要",
+        "description": "このワークショップについて",
+        "filename": "../../introduction/introduction_ja.md"
+    },
+    {
+        "title": "開始",
+        "description": "このワークショップの前提条件",
+        "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs_ja.md"        
+    },
+    {
+        "title": "演習1: Graph Studioでのプロパティ・グラフの作成",
+        "filename": "../../create-graph/create-graph_ja.md"
+    },
+    {
+        "title": "演習2: プロパティ・グラフの問合せおよびビジュアル化",
+        "filename": "../../query-graph/query-graph_ja.md"
+    },
+    {
+        "title": "サポートが必要ですか。",
+        "description": "ライブヘルプを受信するための一般的な問題と方向への解決策",
+        "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_ja.md"
+    }
+    ]
+}
