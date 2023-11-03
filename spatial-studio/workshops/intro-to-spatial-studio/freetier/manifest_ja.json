@@ -1,0 +1,41 @@
+{
+    "workshoptitle": "Oracle Spatial Studioの概要",
+      "include": {"starter-file.sql":"../../data-load/files/starter-file.sql",
+      "sample.json":"../../data-load/files/sample.json",
+      "step2_ja.md":"../../data-load/files/step2_ja.md"},
+      "support": "https://community.oracle.com/tech/developers/categories/autonomous-database-shared",
+      "help": "livelabs-help-db_us@oracle.com",
+    "tutorials": [
+      {
+        "title": "概要",
+        "filename": "../introduction/introduction_ja.md",
+        "type": "freetier"
+      },  
+      {
+        "title": "開始",
+        "description": "Oracle Cloudへのログイン",
+        "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_ja.md"
+    }, 
+      {
+      "title": "演習1: 空間データのロード",
+      "filename": "../../../load-spatial-data/load-spatial-data_ja.md"
+  },
+  {
+    "title": "演習2: プロジェクトの作成",
+    "filename": "../../../create-project/create-project_ja.md"
+},
+{
+  "title": "演習3: マップの構成",
+  "filename": "../../../apply-map-styling/apply-map-styling_ja.md"
+},
+{
+  "title": "演習4: 空間分析の実行",
+  "filename": "../../../spatial-analysis-intro/spatial-analysis-intro_ja.md"
+},
+{
+    "title": "サポートが必要ですか。",
+    "description": "ライブヘルプを受信するための一般的な問題と方向への解決策",
+    "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ja.md"
+}
+    ]
+}
