@@ -1,0 +1,61 @@
+{
+    "workshoptitle":"Análisis, consulta y visualización de gráficos de propiedades con Oracle Database",
+    "help": "livelabs-help-sg_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "Introducción",
+            "description": "Introducción",
+            "filename":"../../intro/intro_es.md"
+        },
+        {
+            "title": "Introducción",
+            "description": "Regístrese para obtener una cuenta gratuita",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_es.md"
+        },
+        {
+            "title": "Laboratorio 1: Creación de claves SSH",
+            "description":"Crear claves SSH",
+            "filename":"https://oracle-livelabs.github.io/common/labs/generate-ssh-key/generate-ssh-keys_es.md"
+        },
+        {
+            "title": "Laboratorio 2: Creación de una instancia de Autonomous Database",
+            "description":"Configurar una instancia de base de datos autónoma Siempre gratis",
+            "filename":"../../provision-free-tier-adb/provision-free-tier-adb_es.md"
+        },
+        {
+            "title": "Práctica 3: Creación de un servidor de gráficos",
+            "description":"Desplegar la imagen de Graph Server y Client Marketplace",
+            "filename":"../../deploy-image/deploy-image_es.md"
+        },
+        {
+            "title": "Laboratorio 4: Creación y activación de un usuario de Graph",
+            "description":"Crear y activar un usuario de gráfico mediante Database Actions",
+            "filename":"../../create-graph-user/create-graph-user_es.md"
+        },
+        {
+            "title": "Laboratorio 5: Creación y relleno de tablas",
+            "description":"Crear y rellenar tablas con el juego de datos Customer 360",
+            "filename":"../../create-and-populate-tables/create-and-populate-tables_es.md"
+        },
+        {
+            "title": "Laboratorio 6: Creación de un gráfico",
+            "description":"Crear un gráfico",
+            "filename":"../../create-graph/create-graph_es.md"
+        },
+        {
+            "title": "Laboratorio 7: Consulta y análisis del gráfico",
+            "description":"Consulta y análisis del gráfico",
+            "filename":"../../query-and-analyze-graphs/query-and-analyze-graphs_es.md"
+        },
+        {
+            "title": "Laboratorio 8: Visualización del gráfico",
+            "description":"Visualización del gráfico",
+            "filename":"../../visualize-graphs/visualize-graphs_es.md"
+        },
+        {
+            "title": "¿Necesita Ayuda?",
+            "description": "Soluciones a problemas comunes e instrucciones para recibir ayuda en directo",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_es.md"
+        }
+    ]
+}
