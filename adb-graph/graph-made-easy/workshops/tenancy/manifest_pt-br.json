@@ -1,0 +1,51 @@
+{
+    "workshoptitle": "Gráficos Facilitados: Encontre Novos Insights em seus Dados",
+    "help": "livelabs-help-db_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Trabalhar com Gráficos de Propriedade no Graph Studio",
+            "description": "A introdução é sempre a primeira. O título e o título do menu de conteúdo correspondem à Introdução.",
+            "filename": "../../introduction-property-graph/introduction-property-graph_pt-BR.md"
+        },
+        {
+            "title": "Introdução",
+            "description": "Pré-requisitos para LiveLabs (tenancies de propriedade da Oracle). O título do laboratório e o título do Menu de conteúdo (o título acima) correspondem ao laboratório de Pré-requisitos. Este laboratório é sempre o primeiro.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/register-free-tier-account_pt-BR.md"
+        },
+        {
+            "title": "Criar um Compartimento (Opcional se você já tiver um)",
+            "description": "Ajuda os usuários a criar um compartimento no OCI",
+            "filename": "../../sprint-create-compartment/sprint-create-compartment_pt-BR.md"
+        },
+        {
+            "title": "Configuração",
+            "description": "Configurar executando o Stack",
+            "filename": "../../setup/setup_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 1: Criar um gráfico",
+            "filename": "../../create-graph/create-graph_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 2: Consultar e visualizar o gráfico",
+            "filename": "../../graph-query-update/graph-query-update_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 3: Criar um gráfico RDF no Graph Studio (OPTIONAL - parte 1)",
+            "filename": "../../rdf-graph-user-and-graph-studio/create-and-validate-an-rdf-graph-user_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 4: Consultar e Visualizar o Gráfico RDF OPCIONAL - parte 2",
+            "filename": "../../query-and-visualize/query-and-visualize-the-rdf-graph_pt-BR.md"
+        },
+        {
+            "title": "Limpar",
+            "description": "Ambiente destruído criado na configuração ",
+            "filename": "../../destroy-environment/destroy-environment_pt-BR.md"
+        },
+        {
+        "title": "Oracle CloudWorld 2022 - Obtenha Ajuda",
+        "filename": "https://oracle-livelabs.github.io/common/support/ocwsupportlab/ocwsupportlab_pt-BR.md"
+        }
+    ]
+}
