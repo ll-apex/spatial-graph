@@ -1,0 +1,37 @@
+{
+    "workshoptitle": "Instalar o Oracle Spatial Studio no Cloud Marketplace",
+    "help": "livelabs-help-db_us@oracle.com",
+    "tutorials": [
+      {
+        "title": "Introdução",
+        "filename": "../introduction/introduction_pt-BR.md"
+      },
+      {
+        "title": "Introdução",
+        "description": "Login no Oracle Cloud",
+        "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_pt-BR.md"
+      },
+      {
+        "title": "Laboratório 1: Provisionar o Autonomous Database",
+        "filename": "https://oracle-livelabs.github.io/adb/shared/adb-provision/adb-provision_pt-BR.md"
+      },
+      {
+        "title": "Laboratório 2: Conecte-se ao ADB com o SQL Developer Web",
+        "description": "SQL Developer Web ",
+        "filename": "https://oracle-livelabs.github.io/adb/shared/adb-sqldevweb/adb-sqldevweb_pt-BR.md"
+      },
+      {
+        "title": "Laboratório 3: Usuário do Banco de Dados para o Repositório do Spatial Studio",
+        "filename": "../../../repo-schema/repo-schema_pt-BR.md"
+      },    
+      {
+        "title": "Laboratório 4: Instalar o Spatial Studio",
+        "filename": "../../../env-mp/env-mp_pt-BR.md"
+      },
+      {
+        "title": "Precisa de Ajuda?",
+        "description": "Soluções para Problemas Comuns e Instruções para Receber Ajuda ao Vivo",
+        "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_pt-BR.md"
+      }
+  ]
+}
