@@ -1,0 +1,60 @@
+{
+    "workshoptitle": "Oracle Autonomous Database(ADB)에서 공간 데이터로 작업하는 방법",
+    "help": "livelabs-help-db_us@oracle.com",
+	  "tutorials": [
+      {
+        "title": "Oracle Spatial 소개",
+        "type":"adb",
+        "description":"Oracle Autonomous Database에서 공간 데이터 관리 및 분석 시작하기",
+        "filename": "../introduction/introduction_ko.md"
+      },
+      {
+        "title": "시작하기",
+        "description": "Oracle Cloud에 로그인",
+        "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_ko.md"
+      },
+      {
+        "title": "실습 1: Autonomous Database 프로비저닝",
+        "description": "새 ADW(Autonomous Data Warehouse) 인스턴스 프로비전",
+        "filename": "https://raw.githubusercontent.com/oracle-livelabs/adb/main/shared/adb-provision/adb-provision_ko.md"
+      },
+      {
+        "title": "실습 2: SQL Worksheet를 사용하여 ADB에 연결",
+        "description": " SQL 워크시트",
+        "filename": "https://raw.githubusercontent.com/oracle-livelabs/adb/main/shared/adb-sqldevweb/adb-sqldevweb_ko.md"
+      },
+      {
+        "title": "실습 3: 공간 데이터 준비",
+        "description": "공간 데이터 생성 및 구성",
+        "filename": "../../../create-spatial-data-adb/create-spatial-data-adb_ko.md"
+      },
+      {
+        "title": "실습 4: 공간 query 실행",
+        "description":"공간 분석 수행",
+        "filename": "../../../run-spatial-queries-adb/run-spatial-queries-adb_ko.md"
+      },
+      {
+        "title": "실습 5: GeoJSON 반환",
+        "description":"GeoJSON를 반환합니다.",
+        "filename": "../../../return-geojson/return-geojson_ko.md"
+      },
+      {
+        "title": "실습 6: 정리 옵션 1: ADB를 사전 워크샵 상태로 재설정",
+        "description":"정리",
+        "filename": "../../../cleanup/cleanup_ko.md"
+      },
+      {
+        "title": "연습 7: 정리 옵션 2: ADB instance 종료",
+        "description":"정리",
+        "filename": "https://raw.githubusercontent.com/oracle-livelabs/common/main/labs/terminate-adb/terminate-adb_ko.md"
+      },
+      {
+        "title": "Oracle CloudWorld 2022에서 자세히 알아보기",
+        "filename": "../../../ocw2022-learn-more/ocw2022-learn-more_ko.md"
+        },
+        {
+          "title": "Oracle CloudWorld 2022 - 도움말 보기",
+          "filename": "https://oracle-livelabs.github.io/common/support/ocwsupportlab/ocwsupportlab_ko.md"
+          }
+    ]
+}
