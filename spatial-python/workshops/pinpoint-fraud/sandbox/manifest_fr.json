@@ -1,0 +1,56 @@
+{
+    "workshoptitle": "Repérez les transactions financières suspectes avec Oracle Spatial et Python",
+      "help": "livelabs-help-db_us@oracle.com",
+      "tutorials": [
+        {
+          "title": "Présentation",
+          "description":"Présentation",
+          "filename": "../introduction/introduction_fr.md"
+        },
+        {
+          "title": "Introduction",
+          "description": "Connexion à Oracle Cloud",
+          "filename": "https://raw.githubusercontent.com/oracle-livelabs/common/main/labs/cloud-login/cloud-login-livelabs2_fr.md"
+        },
+        {
+          "title": "Exercice 1 : Accéder à JupyterLab",
+          "description": "...",
+          "filename": "../../../access-jupyterlab/access-jupyterlab_fr.md"
+        },
+        {
+          "title": "Atelier 2 : création d'Autonomous Database",
+          "description": "...",
+          "filename": "../../../create-adb/create-adb_fr.md"
+        },
+        {
+          "title": "Atelier 3 : Connexion à Autonomous Database à partir de Python",
+          "description": "...",
+          "filename": "../../../connect-to-adb/connect-to-adb_fr.md"
+        }, 
+        {
+          "title": "Exercice 4 : Préparer les données",
+          "description": "...",
+          "filename": "../../../prepare-data/prepare-data_fr.md"
+        },   
+        {
+          "title": "Exercice 5 : Explorer les données",
+          "description": "...",
+          "filename": "../../../explore-data/explore-data_fr.md"
+        },  
+        {
+          "title": "Exercice 6 : Détecter les transactions suspectes",
+          "description": "...",
+          "filename": "../../../detect-anomalies/detect-anomalies_fr.md"
+        },  
+        {
+          "title": "Exercice 7 : Nettoyage",
+          "description": "...",
+          "filename": "../../../cleanup/cleanup_fr.md"
+        },
+        {
+          "title": "Besoin d'aide ?",
+          "description": "Solutions aux problèmes courants et instructions pour recevoir de l'aide en direct",
+          "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_fr.md"
+        }
+    ]
+}
