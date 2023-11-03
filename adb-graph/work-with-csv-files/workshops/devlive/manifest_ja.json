@@ -1,0 +1,45 @@
+{
+    "workshoptitle": "Graph Studio: Autonomous Databaseでのグラフ問合せを使用した循環支払チェーンの検索",
+      "help": "livelabs-help-db_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "概要",
+            "description": "このワークショップについて",
+            "filename": "../../introduction/introduction_ja.md"
+        },
+        {
+            "title": "開始",
+            "description": "このワークショップの前提条件。",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/event-register-free-tier-account_ja.md"
+        },
+        {
+            "title": "演習1: ADBインスタンスのプロビジョニング",
+            "description": "Autonomous Databaseインスタンスのプロビジョニング",
+            "type": "freetier",
+            "filename": "https://oracle-livelabs.github.io/adb/shared/adb-provision/adb-provision-conditional_ja.md"
+        },
+        {
+            "title": "演習2: グラフ対応データベース・ユーザーの作成",
+            "description": "必要なロールおよび権限を持つデータベース・ユーザーの作成",
+            "filename": "../../../create-user/create-user_ja.md"
+        },                
+        {
+            "title": "演習3: Autonomous DatabaseへのCSVファイルのロード",
+            "description": "データベース・アクション・データ・ロードを使用したCSVファイルからのデータのロード",
+            "filename": "../../load-csv-files/load-csv-files_ja.md"
+        },
+        {
+            "title": "演習4: グラフの作成",
+            "filename": "../../create-graph/create-graph_ja.md"
+        },
+        {
+            "title": "演習5: グラフの問合せおよびビジュアル化",
+            "filename": "../../query-graph/query-graph_ja.md"
+        },
+        {
+            "title": "サポートが必要ですか。",
+            "description": "ライブヘルプを受信するための一般的な問題と方向への解決策",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ja.md"
+        }
+      ]
+  }
