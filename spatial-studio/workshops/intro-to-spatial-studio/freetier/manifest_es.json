@@ -1,0 +1,41 @@
+{
+    "workshoptitle": "Introducción a Oracle Spatial Studio",
+      "include": {"starter-file.sql":"../../data-load/files/starter-file.sql",
+      "sample.json":"../../data-load/files/sample.json",
+      "step2_es.md":"../../data-load/files/step2_es.md"},
+      "support": "https://community.oracle.com/tech/developers/categories/autonomous-database-shared",
+      "help": "livelabs-help-db_us@oracle.com",
+    "tutorials": [
+      {
+        "title": "Introducción",
+        "filename": "../introduction/introduction_es.md",
+        "type": "freetier"
+      },  
+      {
+        "title": "Introducción",
+        "description": "Conexión a Oracle Cloud",
+        "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_es.md"
+    }, 
+      {
+      "title": "Laboratorio 1: Carga de datos espaciales",
+      "filename": "../../../load-spatial-data/load-spatial-data_es.md"
+  },
+  {
+    "title": "Laboratorio 2: Crear proyecto",
+    "filename": "../../../create-project/create-project_es.md"
+},
+{
+  "title": "Laboratorio 3: Configuración de mapa",
+  "filename": "../../../apply-map-styling/apply-map-styling_es.md"
+},
+{
+  "title": "Laboratorio 4: Realización de análisis espaciales",
+  "filename": "../../../spatial-analysis-intro/spatial-analysis-intro_es.md"
+},
+{
+    "title": "¿Necesita Ayuda?",
+    "description": "Soluciones a problemas comunes e instrucciones para recibir ayuda en directo",
+    "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_es.md"
+}
+    ]
+}
