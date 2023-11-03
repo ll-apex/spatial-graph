@@ -1,0 +1,35 @@
+{
+    "workshoptitle": "在 Graph Studio 中使用 RDF 图形",
+    "help": "livelabs-help-sg_us@oracle.com",
+    "tutorials": [
+      {
+          "title": "简介",
+          "description": "导言总是第一位的。“简介”的标题和内容菜单标题匹配。",
+          "filename": "../../introduction/introduction_zh-CN.md"
+      },
+      {
+          "title": "入门",
+          "description": "LiveLabs（Oracle 拥有租户）的先决条件。实验室的标题和先决条件实验室的“内容”菜单标题（上面的标题）匹配。这个实验室总是第一位的。",
+          "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs_zh-CN.md"
+      },
+
+      {
+          "title": "练习 1：预配 ADB 实例",
+          "description": "预配 Autonomous Database 实例",
+          "filename": "https://oracle-livelabs.github.io/adb/shared/adb-15-minutes/provision-database/adb-provision-moviestream_zh-CN.md"
+      },
+      {
+          "title": "实验 2：在 Graph Studio 中创建和验证 RDF 图形用户",
+          "filename": "../../rdf-graph-user-and-graph-studio/create-and-validate-an-rdf-graph-user_zh-CN.md"
+      },
+      {
+          "title": "实验室 3：查询和可视化 RDF 图形",
+          "filename": "../../query-and-visualize/query-and-visualize-the-rdf-graph_zh-CN.md"
+      },
+      {
+          "title": "需要帮助？",
+          "description": "接收实时帮助的常见问题和方向的解决方案",
+          "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_zh-CN.md"
+      }
+    ]
+}
