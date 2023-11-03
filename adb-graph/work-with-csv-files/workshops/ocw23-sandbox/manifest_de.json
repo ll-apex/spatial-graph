@@ -1,0 +1,46 @@
+{
+    "workshoptitle": "Diagramme leicht gemacht: Neue Einblicke in Ihre Daten finden",
+    "help": "livelabs-help-db_us@oracle.com",
+    "include": {
+        "iam-compartment-create-body_de.md":"https://oracle-livelabs.github.io/common/building-blocks/tasks/iam/compartment-create-body_de.md"
+       },
+    "variables": ["/common/building-blocks/variables/variables.json"],
+    "tutorials": [
+        {
+            "title": "Mit Graph Studio arbeiten",
+            "description": "Die Einführung steht immer an erster Stelle. Titel und Inhalt des Menüs stimmen für die Einführung überein.",
+            "filename": "https://oracle-livelabs.github.io/spatial-graph/adb-graph/graph-made-easy/introduction-property-graph/introduction-property-graph_de.md"
+        },
+        {
+            "title": "Erste Schritte",
+            "description": "Voraussetzungen für LiveLabs (Mandanten im Besitz von Oracle). Der Titel der Übung und der Titel des Inhaltsmenüs (obener Titel) stimmen mit dem Titel der erforderlichen Übung überein. Diese Übung ist immer die erste.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs2_de.md"
+        },
+        {
+            "title": "Übung 1: Diagramm erstellen",
+            "filename": "../../create-graph/create-graph_de.md"
+        },
+        {
+            "title": "Übung 2: Diagramm abfragen und visualisieren",
+            "filename": "../../query-graph/query-graph_de.md"
+        },
+        {
+            "title": "Übung 3: Erstellen eines RDF-Diagramms in Graph Studio (OPTIONAL - Teil 1)",
+            "filename": "https://oracle-livelabs.github.io/spatial-graph/adb-graph/graph-made-easy/rdf-graph-user-and-graph-studio/create-and-validate-an-rdf-graph-user_de.md"
+        },
+        {
+            "title": "Übung 4: RDF-Diagramm abfragen und visualisieren (OPTIONAL - Teil 2)",
+            "filename": "https://oracle-livelabs.github.io/spatial-graph/adb-graph/graph-made-easy/query-and-visualize/query-and-visualize-the-rdf-graph_de.md"
+        },
+        {
+            "title": "Brauchen Sie Hilfe?",
+            "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_de.md"
+        },        
+        {
+            "title": "Oracle CloudWorld 2023 - Support",
+            "filename": "https://oracle-livelabs.github.io/common/support/ocwsupportlab/ocwsupportlab_de.md"
+        }
+
+    ]
+}
