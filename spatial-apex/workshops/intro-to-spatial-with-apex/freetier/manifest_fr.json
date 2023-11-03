@@ -1,0 +1,37 @@
+{
+  "workshoptitle": "Introduction à Maps et Spatial dans APEX",
+  "help": "livelabs-help-db_us@oracle.com",
+	"tutorials": [
+    {
+      "title": "Présentation",
+      "description": "Présentation",
+      "filename": "../introduction/introduction_fr.md"
+    },
+    {
+      "title": "Introduction",
+      "description": "Création d'un espace de travail Oracle APEX",
+      "filename": "https://oracle-livelabs.github.io/apex/apex-212/common/1-sign-up-apex/1-sign-up-apex_fr.md"
+    },
+    {
+      "title": "Exercice 1 : Installer l'application Sample Maps",
+      "filename": "../../../install-sample-maps-app/install-sample-maps-app_fr.md"
+    },
+    {
+      "title": "Exercice 2 : Créer une carte à l'aide de l'assistant",
+      "filename": "../../../create-map-with-wizard/create-map-with-wizard_fr.md"
+    },
+    {
+      "title": "Exercice 3 : Créer une carte à partir de zéro",
+      "filename": "../../../create-map-from-scratch/create-map-from-scratch_fr.md"
+    },
+    {
+      "title": "Exercice 4 : Intégrer l'analyse spatiale",
+      "filename": "../../../add-spatial-analysis/add-spatial-analysis_fr.md"
+    },
+    {
+      "title": "Besoin d'aide ?",
+      "description": "Solutions aux problèmes courants et instructions pour recevoir de l'aide en direct",
+      "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_fr.md"
+    }
+  ]
+}
