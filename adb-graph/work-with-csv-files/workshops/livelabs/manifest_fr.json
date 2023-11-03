@@ -1,0 +1,29 @@
+{
+  "workshoptitle": "Graph Studio : recherche de chaînes de paiement circulaires avec des requêtes de graphique dans Autonomous Database",
+    "help": "livelabs-help-sg_us@oracle.com",
+	"tutorials": [
+    {
+        "title": "Présentation",
+        "description": "À propos de cet atelier",
+        "filename": "../../introduction/introduction_fr.md"
+    },
+    {
+        "title": "Introduction",
+        "description": "Prérequis pour cet atelier",
+        "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs_fr.md"        
+    },
+    {
+        "title": "Exercice 1 : Créer un graphique de propriétés dans Graph Studio",
+        "filename": "../../create-graph/create-graph_fr.md"
+    },
+    {
+        "title": "Exercice 2 : Interroger et visualiser le graphique de propriétés",
+        "filename": "../../query-graph/query-graph_fr.md"
+    },
+    {
+        "title": "Besoin d'aide ?",
+        "description": "Solutions aux problèmes courants et instructions pour recevoir de l'aide en direct",
+        "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_fr.md"
+    }
+    ]
+}
