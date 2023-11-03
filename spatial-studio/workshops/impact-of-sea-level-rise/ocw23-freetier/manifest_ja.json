@@ -1,0 +1,52 @@
+{
+    "workshoptitle": "Oracle Spatial Studioで海面上昇の影響を評価",
+      "support": "https://community.oracle.com/tech/developers/categories/autonomous-database-shared",
+      "help": "livelabs-help-sg_us@oracle.com",
+    "tutorials": [
+      {
+        "title": "概要",
+        "filename": "../introduction/introduction_ja.md"
+      },  
+      {
+        "title": "開始",
+        "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_ja.md"
+      },
+   {
+      "title": "演習1: Spatial StudioのOracle Cloudへのデプロイ",
+      "filename": "../../../env-mp-ocw/env-mp-ocw_ja.md"
+  },
+  {
+      "title": "演習2: データのロードと準備",
+      "filename": "../../../slr-load-data/slr-load-data_ja.md"
+  },
+  {
+    "title": "演習3: 空間データのビジュアル化",
+    "filename": "../../../slr-visualize/slr-visualize_ja.md"
+},
+{
+  "title": "演習4: 空間関係の分析",
+  "filename": "../../../slr-analyze/slr-analyze_ja.md"
+},
+{
+  "title": "演習5: 結果の保存と共有",
+  "filename": "../../../slr-save-share/slr-save-share_ja.md"
+},
+{
+  "title": "演習6: クリーンアップ・オプション1: Spatial StudioおよびADBをワークショップ前の状態にリセット",
+  "filename": "../../../reset/reset_ja.md"
+},   
+{
+  "title": "演習7: クリーンアップ・オプション2: Spatial StudioおよびADBの終了",
+  "filename": "../../../env-mp-teardown/env-mp-teardown_ja.md"
+},
+{
+    "title": "サポートが必要ですか。",
+    "description": "ライブヘルプを受信するための一般的な問題と方向への解決策",
+    "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ja.md"
+},
+{
+  "title": "Oracle CloudWorld 2023 - サポート",
+   "filename": "https://oracle-livelabs.github.io/common/support/ocwsupportlab/ocwsupportlab_ja.md"
+}
+   ]
+}
