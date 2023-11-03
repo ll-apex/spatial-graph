@@ -1,0 +1,50 @@
+{
+    "workshoptitle": "Introduction à Graph Studio",
+    "help": "livelabs-help-sg_us@oracle.com",
+    "include": {
+      "adb-goto-service-body_fr.md":"https://oracle-livelabs.github.io/common/building-blocks/tasks/adb/goto-service-body_fr.md",
+      "adb-provision-body_fr.md":"https://oracle-livelabs.github.io/common/building-blocks/tasks/adb/provision-body_fr.md"
+    },
+    "variables": ["../../variables.json"],
+	"tutorials": [
+        {
+          "title": "Introduction",
+          "description": "Prérequis pour cet atelier",
+          "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs_fr.md"
+        },
+        {
+            "title": "Présentation",
+            "description": "Présentation de l'atelier et présentation du produit.",
+            "filename": "../../introduction/introduction_fr.md"
+        },
+        {
+            "title": "Exercice 1 : Provisionner une instance ADB",
+            "description": "Provisionnement d'une instance Autonomous Database",
+            "type": "freetier",
+            "filename": "https://oracle-livelabs.github.io/common/building-blocks/blocks/adb/provision/provision-console_fr.md"
+        },
+        {
+            "title": "Exercice 2 : Créer un utilisateur de graphique",
+            "description": "Créer un graphique simple et apprendre à naviguer dans l'interface utilisateur.",
+            "filename": "../../create-user/create-user_fr.md"
+        },
+        {
+            "title": "Atelier 3 : Hello World",
+            "description": "Créer un graphique simple et apprendre à naviguer dans l'interface utilisateur.",
+            "filename": "../../hello-world/hello-world_fr.md"
+        },
+        {
+            "title": "Exercice 4 : Créer un graphique à partir des tables SH",
+            "filename": "../../create-graph-from-sh-tables/create-graph-from-sh-tables_fr.md"
+        },
+        {
+            "title": "Exercice 5 : Analyser un entrepôt de données à l'aide d'algorithmes de graphe",
+            "filename": "../../run-graph-algorithms-on-data-warehouse/run-graph-algorithms-on-data-warehouse_fr.md"
+        },
+        {
+            "title": "Besoin d'aide ?",
+            "description": "Solutions aux problèmes courants et instructions pour recevoir de l'aide en direct",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_fr.md"
+        }
+    ]
+}
