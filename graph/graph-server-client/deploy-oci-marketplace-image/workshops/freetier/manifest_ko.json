@@ -1,0 +1,61 @@
+{
+    "workshoptitle":"Oracle Database로 속성 그래프 분석, 쿼리 및 시각화",
+    "help": "livelabs-help-sg_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "소개",
+            "description": "소개",
+            "filename":"../../intro/intro_ko.md"
+        },
+        {
+            "title": "시작하기",
+            "description": "Free Tier 계정 등록하기",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_ko.md"
+        },
+        {
+            "title": "실습 1: SSH 키 생성",
+            "description":"SSH 키 생성",
+            "filename":"https://oracle-livelabs.github.io/common/labs/generate-ssh-key/generate-ssh-keys_ko.md"
+        },
+        {
+            "title": "실습 2: Autonomous Database 생성",
+            "description":"항상 무료 자율운영 데이터베이스 인스턴스 설정",
+            "filename":"../../provision-free-tier-adb/provision-free-tier-adb_ko.md"
+        },
+        {
+            "title": "실습 3: 그래프 서버 생성",
+            "description":"그래프 서버 및 클라이언트 마켓플레이스 이미지 배치",
+            "filename":"../../deploy-image/deploy-image_ko.md"
+        },
+        {
+            "title": "실습 4: 그래프 사용자 생성 및 활성화",
+            "description":"Database Actions를 사용하여 그래프 사용자 생성 및 활성화",
+            "filename":"../../create-graph-user/create-graph-user_ko.md"
+        },
+        {
+            "title": "실습 5: 테이블 생성 및 채우기",
+            "description":"Customer 360 데이터 세트로 테이블 생성 및 채우기",
+            "filename":"../../create-and-populate-tables/create-and-populate-tables_ko.md"
+        },
+        {
+            "title": "실습 6: 그래프 생성",
+            "description":"그래프 생성",
+            "filename":"../../create-graph/create-graph_ko.md"
+        },
+        {
+            "title": "실습 7: 그래프 쿼리 및 분석",
+            "description":"그래프 쿼리 및 분석",
+            "filename":"../../query-and-analyze-graphs/query-and-analyze-graphs_ko.md"
+        },
+        {
+            "title": "실습 8: 그래프 시각화",
+            "description":"그래프 시각화",
+            "filename":"../../visualize-graphs/visualize-graphs_ko.md"
+        },
+        {
+            "title": "도움이 필요합니까?",
+            "description": "일반적인 문제 해결 및 실시간 도움말 수신 방향",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ko.md"
+        }
+    ]
+}
