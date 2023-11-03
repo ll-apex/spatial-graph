@@ -1,0 +1,35 @@
+{
+    "workshoptitle": "그래프 분석을 사용하여 영화 추천",
+    "help": "livelabs-help-sg_us@oracle.com",
+    "include": {
+        "adb-goto-graph-studio_ko.md":"/common/building-blocks/tasks/adb/goto-graph-studio_ko.md",
+        "adb-create-graph_ko.md":"/common/building-blocks/tasks/adb/create-graph_ko.md"     
+      },
+    "variables": ["./variables.json"],
+    "tutorials": [
+        {
+            "title": "그래프 분석을 사용하여 영화 추천",
+            "description": "소개가 항상 먼저입니다. 제목 및 내용 메뉴 제목이 소개와 일치합니다.",
+            "filename": "../../introduction/introduction_ko.md"
+        },
+        {
+            "title": "시작하기",
+            "description": "LiveLabs(Oracle 소유 테넌시)의 필요 조건입니다. 필요 조건 랩에 대한 실습 제목과 목차 메뉴 제목(위 제목)이 일치합니다. 이 실험실은 항상 먼저입니다.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs_ko.md"
+        },
+        {
+            "title": "실습 1: 그래프 생성",
+            "filename": "../../create-graph/create-graph_ko.md"
+        },
+        {
+            "title": "실습 2: 그래프 쿼리 및 시각화",
+            "filename": "../../query-and-visualize/query-and-visualize_ko.md"
+        },
+        {
+            "title": "도움이 필요합니까?",
+            "description": "일반적인 문제 해결 및 실시간 도움말 수신 방향",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_ko.md"
+        }
+
+    ]
+}
