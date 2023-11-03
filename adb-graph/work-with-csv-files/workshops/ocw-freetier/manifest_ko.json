@@ -1,0 +1,55 @@
+{
+    "workshoptitle": "손쉬운 그래프: 데이터에서 새로운 인사이트 찾기",
+    "help": "livelabs-help-db_us@oracle.com",
+    "include": {
+     "iam-compartment-create-body_ko.md":"https://oracle-livelabs.github.io/common/building-blocks/tasks/iam/compartment-create-body_ko.md"
+    },
+    "variables": ["./variables.json"],
+    "tutorials": [
+        {
+            "title": "Graph Studio 작업",
+            "description": "소개가 항상 먼저입니다. 제목 및 내용 메뉴 제목이 소개와 일치합니다.",
+            "filename": "https://oracle-livelabs.github.io/spatial-graph/adb-graph/graph-made-easy/introduction-property-graph/introduction-property-graph_ko.md"
+        },
+        {
+            "title": "시작하기",
+            "description": "LiveLabs(Oracle 소유 테넌시)의 필요 조건입니다. 필요 조건 랩에 대한 실습 제목과 목차 메뉴 제목(위 제목)이 일치합니다. 이 실험실은 항상 먼저입니다.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_ko.md"
+        },
+        {
+            "title": "실습 1: 설정",
+            "description": "스택을 실행하여 설정",
+            "filename": "../../setup/setup_ko.md"
+        },
+        {
+            "title": "Lab 2: Graph Studio에서 속성 그래프 생성",
+            "filename": "../../create-graph/create-graph-me_ko.md"
+        }, 
+        {
+            "title": "Lab 3: 속성 그래프 쿼리 및 시각화",
+            "filename": "../../query-graph/query-graph_ko.md"
+        },
+        {
+            "title": "실습 4: Graph Studio에서 RDF 그래프 생성(선택 사항 - 1부)",
+            "filename": "https://oracle-livelabs.github.io/spatial-graph/adb-graph/graph-made-easy/rdf-graph-user-and-graph-studio/create-and-validate-an-rdf-graph-user_ko.md"
+        },
+        {
+            "title": "실습 5: RDF 그래프 쿼리 및 시각화(선택 사항 - 파트 2)",
+            "filename": "https://oracle-livelabs.github.io/spatial-graph/adb-graph/graph-made-easy/rdf-graph-user-and-graph-studio/create-and-validate-an-rdf-graph-user_ko.md"
+        },
+        {
+            "title": "실습 5: RDF 그래프 쿼리 및 시각화(선택 사항 - 파트 2)",
+            "filename": "https://oracle-livelabs.github.io/spatial-graph/adb-graph/graph-made-easy/query-and-visualize/query-and-visualize-the-rdf-graph_ko.md"
+
+        },
+        {
+            "title": "정리",
+            "description": "설정에서 생성된 삭제된 환경 ",
+            "filename": "../../destroy-environment/destroy-environment_ko.md"
+        },
+        {
+        "title": "Oracle CloudWorld 2023 - 도움말 보기",
+        "filename": "https://oracle-livelabs.github.io/common/support/ocwsupportlab/ocwsupportlab_ko.md"
+        }
+    ]
+}
