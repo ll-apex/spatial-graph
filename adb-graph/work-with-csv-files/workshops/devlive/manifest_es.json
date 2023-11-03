@@ -1,0 +1,45 @@
+{
+    "workshoptitle": "Graph Studio: búsqueda de cadenas de pago circulares mediante consultas de gráficos en Autonomous Database",
+      "help": "livelabs-help-db_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "Introducción",
+            "description": "Acerca de este taller",
+            "filename": "../../introduction/introduction_es.md"
+        },
+        {
+            "title": "Introducción",
+            "description": "Requisitos previos para este taller.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/event-register-free-tier-account_es.md"
+        },
+        {
+            "title": "Laboratorio 1: Aprovisionamiento de una instancia de ADB",
+            "description": "Asignación de una instancia de Autonomous Database",
+            "type": "freetier",
+            "filename": "https://oracle-livelabs.github.io/adb/shared/adb-provision/adb-provision-conditional_es.md"
+        },
+        {
+            "title": "Práctica 2: Creación de un usuario de base de datos con gráficos activados",
+            "description": "Crear un usuario de base de datos con los roles y privilegios necesarios",
+            "filename": "../../../create-user/create-user_es.md"
+        },                
+        {
+            "title": "Laboratorio 3: Carga de archivos CSV en Autonomous Database",
+            "description": "Carga de datos de archivos CSV mediante la carga de datos de Database Actions",
+            "filename": "../../load-csv-files/load-csv-files_es.md"
+        },
+        {
+            "title": "Laboratorio 4: Creación de un gráfico",
+            "filename": "../../create-graph/create-graph_es.md"
+        },
+        {
+            "title": "Laboratorio 5: Consulta y visualización del gráfico",
+            "filename": "../../query-graph/query-graph_es.md"
+        },
+        {
+            "title": "¿Necesita Ayuda?",
+            "description": "Soluciones a problemas comunes e instrucciones para recibir ayuda en directo",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_es.md"
+        }
+      ]
+  }
