@@ -1,0 +1,53 @@
+{
+    "workshoptitle": "Oracle Spatial Studio 簡介",
+    "help": "livelabs-help-db_us@oracle.com",
+    "tutorials": [
+      {
+        "title": "開始使用",
+        "description": "登入 Oracle Cloud",
+        "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_zh-TW.md"
+      },
+      {
+        "title": "簡介",
+        "filename": "../introduction/introduction_zh-TW.md"
+      },
+      {
+        "title": "實驗室 1：Autonomous Database",
+        "filename": "https://oracle-livelabs.github.io/adb/shared/adb-provision/adb-provision_zh-TW.md"
+      },
+      {
+        "title": "實驗室 2：SQL Developer Web",
+        "description": "SQL Developer Web",
+        "filename": "https://oracle-livelabs.github.io/adb/shared/adb-sqldevweb/adb-sqldevweb_zh-TW.md"
+      },
+      {
+        "title": "Lab 3:Spatial Studio Repo 綱要",
+        "filename": "../../../../spatial-studio/env/repo-schema/repo-schema_zh-TW.md"
+      },    
+      {
+        "title": "實驗室 4：佈建空間工作室",
+        "filename": "../../../../spatial-studio/env/env-marketplace/env-marketplace_zh-TW.md"
+      },
+      {
+        "title": "實驗室 5：載入資料",
+        "filename": "../../../../spatial-studio/intro/load-data/load-data_zh-TW.md"
+      },
+      {
+        "title": "實驗室 6：建立專案",
+        "filename": "../../../../spatial-studio/intro/create-project/create-project_zh-TW.md"
+      },
+      {
+        "title": "Lab 7：探索點樣式",
+        "filename": "../../../../spatial-studio/intro/apply-styling/apply-styling_zh-TW.md"
+      },
+      {
+        "title": "Lab 8：探索層互動",
+        "filename": "../../../../spatial-studio/intro/apply-interactions/apply-interactions_zh-TW.md"
+      },
+      {
+        "title": "需要協助嗎？",
+        "description": "接收即時說明常見問題的解決方案和指示",
+        "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_zh-TW.md"
+      }
+    ]
+}
