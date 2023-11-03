@@ -1,0 +1,52 @@
+{
+    "workshoptitle": "Evaluer l'impact local de l'élévation du niveau de la mer avec Oracle Spatial Studio",
+      "support": "https://community.oracle.com/tech/developers/categories/autonomous-database-shared",
+      "help": "livelabs-help-sg_us@oracle.com",
+    "tutorials": [
+      {
+        "title": "Présentation",
+        "filename": "../introduction/introduction_fr.md"
+      },  
+      {
+        "title": "Introduction",
+        "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_fr.md"
+      },
+   {
+      "title": "Atelier 1 : Déployer Spatial Studio vers Oracle Cloud",
+      "filename": "../../../env-mp-ocw/env-mp-ocw_fr.md"
+  },
+  {
+      "title": "Exercice 2 : Charger et préparer des données",
+      "filename": "../../../slr-load-data/slr-load-data_fr.md"
+  },
+  {
+    "title": "Exercice 3 : Visualiser les données spatiales",
+    "filename": "../../../slr-visualize/slr-visualize_fr.md"
+},
+{
+  "title": "Exercice 4 : Analyser les relations spatiales",
+  "filename": "../../../slr-analyze/slr-analyze_fr.md"
+},
+{
+  "title": "Exercice 5 : Enregistrer et partager les résultats",
+  "filename": "../../../slr-save-share/slr-save-share_fr.md"
+},
+{
+  "title": "Laboratoire 6 : Option de nettoyage 1 : Réinitialiser Spatial Studio et ADB à l'état de pré-atelier",
+  "filename": "../../../reset/reset_fr.md"
+},   
+{
+  "title": "Exercice 7 : Option de nettoyage 2 : Terminer Spatial Studio et ADB",
+  "filename": "../../../env-mp-teardown/env-mp-teardown_fr.md"
+},
+{
+    "title": "Besoin d'aide ?",
+    "description": "Solutions aux problèmes courants et instructions pour recevoir de l'aide en direct",
+    "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_fr.md"
+},
+{
+  "title": "Oracle CloudWorld 2023 - Support",
+   "filename": "https://oracle-livelabs.github.io/common/support/ocwsupportlab/ocwsupportlab_fr.md"
+}
+   ]
+}
